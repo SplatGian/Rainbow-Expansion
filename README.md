@@ -7,6 +7,5 @@ Better Custom Music, Custom Ink Colors, Better Boss Fights (2 new bosses every r
 Oh and S1 Maps are in the mod too...
 
 A Huge Thanks to the Contributors of this mod:
--grizz#0001
 -Evil Pearl#4960
--EC2★Samu#4128 (helper)
+-grizz#0001
