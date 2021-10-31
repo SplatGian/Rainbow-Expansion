@@ -47,7 +47,7 @@ V6.0 Epic Update
 -I'd like to add custom in-game text
 -I'd like to add easter eggs to the chats
 
-V6.0 Epix Update
+V7.0 Epix Update
 -Added another level! The octo level
 -Added a new boss and cool custom music
 -Added music for the octo level
