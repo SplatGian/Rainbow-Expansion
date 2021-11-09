@@ -3,8 +3,6 @@ name: CI
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
   workflow_dispatch:
 
@@ -23,3 +21,21 @@ jobs:
         
       - name: Zip US mod
         run: zip -r 01003BC0000A0000.zip romfs
+        
+      - name: Upload JP mod
+        uses: actions/upload-artifact@v2
+        with:
+          name: JP
+          path: 01003C700009C000.zip
+          
+      - name: Upload EU mod
+        uses: actions/upload-artifact@v2
+        with:
+          name: EU
+          path: 0100F8F0000A2000.zip
+          
+      - name: Upload US mod
+        uses: actions/upload-artifact@v2
+        with:
+          name: US
+          path: 01003BC0000A0000.zip
