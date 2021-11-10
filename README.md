@@ -1,11 +1,24 @@
 # Rainbow-Expansion
 Epic Mod made by Gian
 
-This is a Custom Level Pack that has a lot of cool things:
-Better Custom Music, Custom Ink Colors, Better Boss Fights (2 new bosses every release😎), Better Levels, Cool Models and Textures, Cool Clothes, Hair and Octopus textures, Custom Texts (There are some Easter Eggs in the mod👀), Custom Loading Anims, Custom Eyes and Weapon Textures.
+## This Custom Level Pack has:
+- Better Custom Music
+- Custom Ink Colors
+- Better Boss Fights (2 new bosses every release😎)
+- Better Levels
+- Cool Models and Textures
+- Cool Clothes, Hair and Octopus textures
+- Custom Texts (There are some Easter Eggs in the mod👀)
+- Custom Loading Anims
+- Custom Eyes and Weapon Textures
 
 Oh and S1 Maps are in the mod too...
 
-A Huge Thanks to the Contributors of this mod:
--Evil Pearl#4960
--grizz#0001
+## Contributors
+
+Many thanks to all these people!
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AntoSkate"><img src="https://avatars.githubusercontent.com/u/36473846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AntoSkate#8235</b></sub></a><br /></td>
+  </tr>
