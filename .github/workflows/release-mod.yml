@@ -3,6 +3,8 @@ name: Release mod
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'romfs/**'
 
   workflow_dispatch:
 
