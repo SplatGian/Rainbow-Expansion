@@ -25,5 +25,6 @@ Many thanks to all these people! ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><img src="https://cdn.discordapp.com/avatars/386884758065381376/a90d3fe07e2ad19023378cea13f59d50.png?size=4096" width="100px;" alt=""/><br /><sub><b>grizz#0001</b></sub></a><br /></td>
     <td align="center"><img src="https://cdn.discordapp.com/avatars/597707266673868810/ef1c09fc00067e772689d9fa0986407b.png?size=4096" width="100px;" alt=""/><br /><sub><b>AntoSkate#8235</b></sub></a><br /><a title="Documentation">📖</a> <a title="Content">🖋</a> <a title="Infrastructure">🚇</a> <a title="Maintenance">🚧</a></td>
   </tr>
-  
+</table>
+
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
