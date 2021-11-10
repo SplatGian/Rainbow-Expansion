@@ -48,4 +48,5 @@ V7.0 Epix Update
 
 [FUTURE UPDATES]
 - See 'Projects' tab
-  ![immagine](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
+
+- ![immagine](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
