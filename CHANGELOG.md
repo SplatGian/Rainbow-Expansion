@@ -1,5 +1,5 @@
 V1.0
-First BETA Release
+- First BETA Release
 
 V2.0
 - Added a new level
