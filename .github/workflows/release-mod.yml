@@ -43,7 +43,8 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          body: Release with the latest mod files in 'main' repo!
+          body: Release with the latest mod files in 'main' repo (useful for testing)!
+          prerelease: true
           files: |
             EU.zip
             JP.zip
