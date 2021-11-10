@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  Upload-mod:
     runs-on: ubuntu-latest
 
     steps:
