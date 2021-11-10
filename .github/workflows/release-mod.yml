@@ -1,0 +1,51 @@
+name: Release mod
+
+on:
+  push:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  release-mod:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Create 0100F8F0000A2000 folder
+        run: mkdir 0100F8F0000A2000
+
+      - name: Create 01003C700009C000 folder
+        run: mkdir 01003C700009C000
+
+      - name: Create 01003BC0000A0000 folder
+        run: mkdir 01003BC0000A0000
+
+      - name: Copy romfs into 0100F8F0000A2000
+        run: cp -a romfs 0100F8F0000A2000
+
+      - name: Copy romfs into 01003C700009C000
+        run: cp -a romfs 01003C700009C000
+
+      - name: Copy romfs into 01003BC0000A0000
+        run: cp -a romfs 01003BC0000A0000
+
+      - name: Zip EU mod
+        run: zip -r EU.zip 0100F8F0000A2000
+
+      - name: Zip JP mod
+        run: zip -r JP.zip 01003C700009C000
+
+      - name: Zip US mod
+        run: zip -r US.zip 01003BC0000A0000
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          body: Release with the latest mod files in 'main' repo!
+          files: |
+            EU.zip
+            JP.zip
+            US.zip
+          tag_name: main
