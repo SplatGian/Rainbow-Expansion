@@ -1,0 +1,53 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "SplatGian",
+      "name": "Gian#7213",
+      "avatar_url": "https://cdn.discordapp.com/avatars/796391022254489610/32f3e8e0ad954a78dd1314e3bcdd2f36.png?size=4096",
+      "profile": "https://discord.gg/3ZN2HPyHSw",
+      "contributions": [
+        "audio",
+        "code",
+        "content",
+        "doc",
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "AntoSkate",
+      "name": "AntoSkate#8235",
+      "avatar_url": "https://cdn.discordapp.com/avatars/597707266673868810/ef1c09fc00067e772689d9fa0986407b.png?size=4096",
+      "profile": "https://github.com/AntoSkate",
+      "contributions": [
+        "content",
+        "doc",
+        "infra",
+        "maintenance"
+      ]
+    },
+    {
+      "name": "Evil Pearl#4960",
+      "avatar_url": "https://cdn.discordapp.com/avatars/845599069283024928/0eba0f8f38f4bf9373438e4ab2498d73.png?size=4096",
+      "contributions": [
+      ]
+    },
+    {
+      "name": "grizz#0001",
+      "avatar_url": "https://cdn.discordapp.com/avatars/386884758065381376/a90d3fe07e2ad19023378cea13f59d50.png?size=4096",
+      "contributions": [
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Rainbow-Expansion-Download",
+  "projectOwner": "SplatGian",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
