@@ -45,10 +45,13 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          body: Release with the latest mod files in 'main' repo (useful for testing)!
+          body: Latest mod files (useful to test WIP features)
           prerelease: true
           files: |
             EU.zip
             JP.zip
             US.zip
-          tag_name: main
+          name: WIP
+          tag_name: wip
+          generate_release_notes: true
+          delete_on_existing: true
