@@ -1,10 +1,10 @@
-# Rainbow-Expansion
+# Rainbow Expansion
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Epic Mod made by Gian
 
-## This Custom Level Pack has:
+## Features:
 - Better Custom Music
 - Custom Ink Colors
 - Better Boss Fights (2 new bosses every release😎)
@@ -17,6 +17,19 @@ Epic Mod made by Gian
 
 Oh and S1 Maps are in the mod too...
 
+## Installation
+### Nintendo Switch
+ - Download and the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (used to test [work-in-progress](https://en.wikipedia.org/wiki/Work_in_process) features) for your Splatoon 2 version (EU.zip for Europe, JP.zip for Japan and US.zip for United States) and copy it in the atmosphere/contents folder on your Switch's sd card (you can use [ftpd](https://github.com/mtheall/ftpd))
+ - Unzip EU.zip/JP.zip/US.zip and you should now have a folder named 0100F8F0000A2000 (if you downloaded EU.zip)/01003C700009C000 (if you downloaded JP.zip)/01003BC0000A0000 (if you downloaded US.zip)
+ - Now you can boot Splatoon 2 and play the Rainbow Expansion!
+
+### Emulators
+ - Ryujinx
+   - Download and the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (used to test [work-in-progress](https://en.wikipedia.org/wiki/Work_in_process) features) for your Splatoon 2 version (EU.zip for Europe, JP.zip for Japan and US.zip for United States) and copy it in the mods/contents folder
+   - Unzip EU.zip/JP.zip/US.zip and you should now have a folder named 0100F8F0000A2000 (if you downloaded EU.zip)/01003C700009C000 (if you downloaded JP.zip)/01003BC0000A0000 (if you downloaded US.zip)
+   - Now you can boot Splatoon 2 and play the Rainbow Expansion!
+
+ I'll add a section for Yuzu when it will support large mods (atm when you try to boot games with large mods the emulator crashes)
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
