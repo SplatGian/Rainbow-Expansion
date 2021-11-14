@@ -2,7 +2,10 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Epic Mod made by Gian
+## About
+Rainbow Expansion is an **epic mod** made by [Gian](https://github.com/SplatGian)
+
+If you want you can join his epic [discord server](https://discord.gg/3ZN2HPyHSw) to get help woth the mod or just chat with the developers and other users
 
 ## Features:
 - Better Custom Music
