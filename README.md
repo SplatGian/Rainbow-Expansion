@@ -35,7 +35,7 @@ If you want you can join his epic [discord server](https://discord.gg/3ZN2HPyHSw
 *I'll add a section for Yuzu when it will support large mods (atm when you try to boot games with large mods the emulator crashes)*
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people in no particular order ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
