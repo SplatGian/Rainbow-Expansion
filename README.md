@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/AntoSkate/Rainbow-Expansion-Download/blob/main/img/logo.png" alt="Rainbow Expansion" width="250"></a>
+  <a><img src="https://github.com/AntoSkate/Rainbow-Expansion-Download/blob/epic-readme/img/logo.png" alt="Rainbow Expansion" width="250"></a>
   <br>
   <b>Rainbow Expansion</b>
   <br>
