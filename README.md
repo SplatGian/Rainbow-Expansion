@@ -1,11 +1,30 @@
-# Rainbow Expansion
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-## About
-Rainbow Expansion is an **epic** mod made by [***Gian***](https://github.com/SplatGian)
+<h1 align="center">
+  <br>
+  <a><img src="https://github.com/SplatGian/Rainbow-Expansion-Download/blob/main/img/logo.png" alt="Rainbow Expansion" width="250"></a>
+  <br>
+  <b>Rainbow Expansion</b>
+  <br>
+</h1>
 
-If you want you can join his epic [discord server](https://discord.gg/3ZN2HPyHSw) to get help with the mod or just chat with the developers and other users
+<h4 align="center">Rainbow Expansion is an epic mod made by <a href="https://github.com/SplatGian">Gian</a>.</h4>
+
+<p align="center">
+    <a href="https://discord.com/invite/3ZN2HPyHSw">
+        <img src="https://img.shields.io/discord/830880503884284025?style=for-the-badge&label=Gian%27s%20Server&logo=discord&logoColor=white"
+            alt="Discord">
+    </a>
+    <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+    <a href="#contributors-">
+        <img src="https://img.shields.io/badge/all_contributors-4-blueviolet.svg?style=for-the-badge"
+            alt="All Contributors">
+    </a>
+    <!-- ALL-CONTRIBUTORS-BADGE:END -->
+</p>
+
+<p align="center">
+  <a href="#features">Features</a> |
+  <a href="#installation">Installation</a>
+</p>
 
 ## Features:
 - Better Custom Music
@@ -21,14 +40,14 @@ If you want you can join his epic [discord server](https://discord.gg/3ZN2HPyHSw
 *Oh and S1 Maps are in the mod too...*
 
 ## Installation
-### Nintendo Switch
-- Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (to test ***work-in-progress*** features) for your ***Splatoon 2 version*** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
+### Nintendo Switch (running the [atmosphere](https://github.com/Atmosphere-NX/Atmosphere) cfw)
+- Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (to test ***work-in-progress*** features) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
 - Copy the file you downloaded in **atmosphere/contents** on your Switch's sd card (you can also use [ftpd](https://github.com/mtheall/ftpd) to access its files) and unzip it
 - Now you can boot **Splatoon 2** and play the ***Rainbow Expansion***!
 
 ### Emulators
 - **Ryujinx**
-  - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (to test ***work-in-progress features***) for your ***Splatoon 2 version*** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
+  - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (to test ***work-in-progress*** features) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
   - Copy the file you downloaded in **mods/contents** inside the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
   - Now you can boot **Splatoon 2** and play the ***Rainbow Expansion***!
 
