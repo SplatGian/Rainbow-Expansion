@@ -43,9 +43,9 @@ jobs:
         run: zip -r US.zip 01003BC0000A0000
 
       - name: GH Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v0.1.13
         with:
-          body: Latest mod files to test work-in-progress features
+          body: Latest mod files (useful to test WIP features)
           prerelease: true
           files: |
             EU.zip
@@ -54,3 +54,4 @@ jobs:
           name: WIP
           tag_name: wip
           generate_release_notes: true
+          delete_on_existing: true
