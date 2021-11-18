@@ -15,7 +15,7 @@
     </a>
     <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
     <a href="#contributors-">
-        <img src="https://img.shields.io/badge/all_contributors-4-blueviolet.svg?style=for-the-badge"
+        <img src="https://img.shields.io/badge/all_contributors-3-blueviolet.svg?style=for-the-badge"
             alt="All Contributors">
     </a>
     <!-- ALL-CONTRIBUTORS-BADGE:END -->
