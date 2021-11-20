@@ -6,7 +6,7 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
-## V0.7 Epix Update
+## V0.7: Epix Update
 - Added another level! The octo level
 - Added a new boss and cool custom music
 - Added music for the octo level
@@ -15,7 +15,7 @@ All changes to the mod will be documented in this file.
 - I'm working on the last 2 levels of the mod
 - Updated Map.pack and Mush.release
 
-## V0.6 Epic Update
+## V0.6: Epic Update
 - Added another level!
 - I'm working on a boss and i still have to fix some things before releasing it privately
 - I'm also working on custom music, i'll release it privately when Rainbow Expansion Pre-Release files will come out
