@@ -1,4 +1,4 @@
-# Changelog
+# Rainbow Expansion's Changelog
 All changes to the mod will be documented in this file.
 
 ## [FUTURE UPDATES]
