@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Rainbow Expansion is an epic mod made by <a href="https://github.com/SplatGian">Gian</a>.</h4>
+<h4 align="center">Rainbow Expansion is an epic mod made by <a href="https://www.youtube.com/channel/UCvrS0vtrdIogrVnvWGuq_5w">Gian</a>.</h4>
 
 <p align="center">
     <a href="https://discord.com/invite/3ZN2HPyHSw">
