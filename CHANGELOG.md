@@ -6,6 +6,10 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.7.1: Epix Update
+- Added a cool font for the mod!
+- Fixed some levels!
+
 ## V0.7: Epix Update
 - Added another level! The octo level
 - Added a new boss and cool custom music
