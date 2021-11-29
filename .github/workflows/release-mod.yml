@@ -42,9 +42,6 @@ jobs:
       - name: Zip US mod
         run: zip -r US.zip 01003BC0000A1065
 
-      - name: Zip mod for emulators
-        run: zip -r RainbowExpansion.zip romfs
-
       - name: GH Release
         uses: softprops/action-gh-release@v1
         with:
@@ -54,7 +51,6 @@ jobs:
             EU.zip
             JP.zip
             US.zip
-            RainbowExpansion.zip
           name: WIP
           tag_name: wip
           generate_release_notes: true
