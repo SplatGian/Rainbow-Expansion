@@ -2,7 +2,7 @@ name: Release mod
 
 on:
   push:
-    branches: [ main ]
+    branches: [ looping-music-test ]
     paths:
       - 'romfs/**'
 
@@ -45,12 +45,12 @@ jobs:
       - name: GH Release
         uses: softprops/action-gh-release@v1
         with:
-          body: Latest mod files to test work-in-progress features
+          body: Looping music just like vanilla game!
           prerelease: true
           files: |
             EU.zip
             JP.zip
             US.zip
-          name: WIP
-          tag_name: wip
+          name: LOOPING-MUSIC-TEST
+          tag_name: loop-test
           generate_release_notes: true
