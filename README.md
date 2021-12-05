@@ -27,15 +27,18 @@
 </p>
 
 ## Features:
-- Better Custom Music
+- Cool Custom Music (that loops) for Every Level and Boss
 - Custom Ink Colors
-- Better Boss Fights (2 new bosses every release😎)
-- Better Levels
+- 2 Custom Boss Fights every release😎
+- More than 15 Levels
 - Cool Models and Textures
 - Cool Clothes, Hair and Octopus textures
 - Custom Texts (There are some Easter Eggs in the mod👀)
 - Custom Loading Anims
 - Custom Eyes and Weapon Textures
+- Custom NPC's in the Plaza with the Mod Contributor's names
+- Custom Fonts
+- Custom Hairstyles
 
 *Oh and S1 Maps are in the mod too...*
 
