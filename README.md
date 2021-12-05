@@ -15,7 +15,7 @@
     </a>
     <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
     <a href="#contributors-">
-        <img src="https://img.shields.io/badge/all_contributors-4-blueviolet.svg?style=for-the-badge"
+        <img src="https://img.shields.io/badge/all_contributors-5-blueviolet.svg?style=for-the-badge"
             alt="All Contributors">
     </a>
     <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -72,6 +72,7 @@ Thanks goes to these wonderful people in no particular order ([emoji key](https:
     <td align="center"><a href="https://github.com/AntoSkate"><img src="https://avatars.githubusercontent.com/u/36473846?v=4" width="100px;" alt=""/><br /><sub><b>AntoSkate#8235</b></sub></a><br /><a href="#content-AntoSkate" title="Content">🖋</a> <a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=AntoSkate" title="Documentation">📖</a> <a href="#infra-AntoSkate" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-AntoSkate" title="Maintenance">🚧</a></td>
     <td align="center"><img src="https://cdn.discordapp.com/avatars/845599069283024928/0eba0f8f38f4bf9373438e4ab2498d73.png?size=4096" width="100px;" alt=""/><br /><sub><b>Evil Pearl#4960</b></td>
     <td align="center"><a href="https://github.com/mr-grizz-ly"><img src="https://avatars.githubusercontent.com/u/93011379?v=4" width="100px;" alt=""/><br /><sub><b>grizz#0001</b></sub></a><br /><a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=mr-grizz-ly" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/TudouHack"><img src="https://avatars.githubusercontent.com/u/39432598?v=4" width="100px;" alt=""/><br /><sub><b>Haxxie#8888</b></sub></a><br /><a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=TudouHack" title="Code">💻</a> <a href="#content-TudouHack" title="Content">🖋</a> <a href="#ideas-TudouHack" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
