@@ -34,7 +34,10 @@
     {
       "name": "Evil Pearl#4960",
       "avatar_url": "https://cdn.discordapp.com/avatars/845599069283024928/0eba0f8f38f4bf9373438e4ab2498d73.png?size=4096",
-      "contributions": []
+      "contributions": [
+        "code",
+        "content"
+      ]
     },
     {
       "login": "mr-grizz-ly",
@@ -42,7 +45,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/93011379?v=4",
       "profile": "https://github.com/mr-grizz-ly",
       "contributions": [
-        "code"
+        "code",
+        "content"
       ]
     },
     {
