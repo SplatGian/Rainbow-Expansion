@@ -6,6 +6,11 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.8.1: Coolorful Update
+- Added Custom Music for Every Level
+- Added Custom Loading Anim V2 (might crash)
+- Improved Models and Textures
+
 ## V0.8: Coolorful Update
 - Added 6 New Levels (made by Haxxie)
 - Added Custom Colors
