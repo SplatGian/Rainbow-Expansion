@@ -1,0 +1,56 @@
+name: WIP Release
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'romfs/**'
+
+  workflow_dispatch:
+
+jobs:
+  release-mod:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Create 0100F8F0000A3065 folder
+        run: mkdir 0100F8F0000A3065
+
+      - name: Create 01003C700009D065 folder
+        run: mkdir 01003C700009D065
+
+      - name: Create 01003BC0000A1065 folder
+        run: mkdir 01003BC0000A1065
+
+      - name: Copy romfs into 0100F8F0000A3065
+        run: cp -a romfs 0100F8F0000A3065
+
+      - name: Copy romfs into 01003C700009D065
+        run: cp -a romfs 01003C700009D065
+
+      - name: Copy romfs into 01003BC0000A1065
+        run: cp -a romfs 01003BC0000A1065
+
+      - name: Zip EU mod
+        run: zip -r EU.zip 0100F8F0000A3065
+
+      - name: Zip JP mod
+        run: zip -r JP.zip 01003C700009D065
+
+      - name: Zip US mod
+        run: zip -r US.zip 01003BC0000A1065
+
+      - name: GH Release
+        uses: softprops/action-gh-release@v1
+        with:
+          body: Latest mod files to test work-in-progress features
+          prerelease: true
+          files: |
+            EU.zip
+            JP.zip
+            US.zip
+          name: WIP
+          tag_name: wip
+          generate_release_notes: true
