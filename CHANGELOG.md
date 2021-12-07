@@ -8,7 +8,7 @@ All changes to the mod will be documented in this file.
 
 ## V0.8.1: Coolorful Update
 - Added Custom Music for Every Level
-- Added Custom Loading Anim V2 (might crash)
+- Added Custom Loading Anim V2
 - Improved Models and Textures
 
 ## V0.8: Coolorful Update
