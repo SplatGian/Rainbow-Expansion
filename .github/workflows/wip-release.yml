@@ -43,7 +43,7 @@ jobs:
         run: zip -r US.zip 01003BC0000A1065
 
       - name: GH Release
-        uses: softprops/action-gh-release@v1
+        uses: movermeyer/action-gh-release@mo.delete_existing_tag
         with:
           body: Latest mod files to test work-in-progress features
           prerelease: true
@@ -53,4 +53,5 @@ jobs:
             US.zip
           name: WIP
           tag_name: wip
+          move_existing_tag: true
           generate_release_notes: true
