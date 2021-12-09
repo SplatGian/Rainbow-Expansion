@@ -52,8 +52,8 @@
 - **yuzu**
   - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (to test ***work-in-progress*** features) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
   - Copy the file you downloaded in **load** in the yuzu folder (***File -> Open yuzu Folder***) and unzip it
-  - Create a new folder named '*Rainbow Expansion*' inside the folder extracted from the zip (its name is the title id for your **Splatoon 2 Octo Expansion region**)
-  - Move '*romfs*' inside '*Rainbow Expansion*'
+  - Create a new folder inside the one you extracted from the zip (its name is the title id for your **Splatoon 2 Octo Expansion region**)
+  - Move '*romfs*' in the new folder
   - Now you can boot **Splatoon 2** and play the ***Rainbow Expansion***!
 
 - **Ryujinx**
