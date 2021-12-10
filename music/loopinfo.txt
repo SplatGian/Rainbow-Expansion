@@ -7,3 +7,4 @@ STRM_Stage_Aim_Octa             | 1365734 | 3023920
 STRM_Stage_March_Octa           | 0742839 | 3970584
 STRM_Stage_Rival_Octa           | 6223204 | 9336485
 STRM_Stage_Sennyu_NoVocal_Octa  | 1026060 | 5124717
+STRM_Stage_Sennyu_Octa          | 1026060 | 5124717
