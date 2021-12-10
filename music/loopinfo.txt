@@ -10,3 +10,4 @@ STRM_Stage_Sennyu_NoVocal_Octa  | 1026060 | 5124717
 STRM_Stage_Sennyu_Octa          | 1026060 | 5124717
 STRM_Stage_Sphere_Octa          | 1124392 | 4197081
 STRM_Stage_StrikeYoke_Octa      | 1979756 | 4307347
+STRM_Stage_test01_Octa          | 2049132 | 4099649
