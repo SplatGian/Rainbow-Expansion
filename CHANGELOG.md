@@ -6,12 +6,13 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
-## V0.9.1: Melodious Update!
+## V0.10: Hair Update!
 - Added a new level: I07G07
 - Updated Map.pack
 - Updated Mush.release.pack
 - Updated level A06
 - Improved Models
+- Added Custom Hair for Octoling Girl and Boy
 
 ## V0.9: Melodious Update!
 - Added Textures for Sphere and Sphere10
