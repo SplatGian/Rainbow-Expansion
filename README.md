@@ -6,6 +6,8 @@
   <br>
 </h1>
 
+[![trailer](https://img.youtube.com/vi/c-IK94D4qwM/maxresdefault.jpg)](https://youtu.be/c-IK94D4qwM)
+
 <h4 align="center">Rainbow Expansion is an epic mod made by <a href="https://www.youtube.com/channel/UCvrS0vtrdIogrVnvWGuq_5w">Gian</a>.</h4>
 
 <p align="center">
