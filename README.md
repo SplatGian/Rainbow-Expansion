@@ -17,7 +17,7 @@
     </a>
     <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
     <a href="#contributors-">
-        <img src="https://img.shields.io/badge/all_contributors-5-blueviolet.svg?style=for-the-badge"
+        <img src="https://img.shields.io/badge/all_contributors-6-blueviolet.svg?style=for-the-badge"
             alt="All Contributors">
     </a>
     <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -77,6 +77,7 @@ Thanks goes to these wonderful people in no particular order ([emoji key](https:
     <td align="center"><a href="https://github.com/PastaMarie"><img src="https://avatars.githubusercontent.com/u/93050901?v=4" width="100px;" alt=""/><br /><sub><b>Dr Pussycat#4960</b></sub></a><br /><a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=PastaMarie" title="Code">💻</a> <a href="#content-PastaMarie" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/mr-grizz-ly"><img src="https://avatars.githubusercontent.com/u/93011379?v=4" width="100px;" alt=""/><br /><sub><b>grizz#0001</b></sub></a><br /><a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=mr-grizz-ly" title="Code">💻</a> <a href="#content-mr-grizz-ly" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/TudouHack"><img src="https://avatars.githubusercontent.com/u/39432598?v=4" width="100px;" alt=""/><br /><sub><b>Haxxie#8888</b></sub></a><br /><a href="#audio-TudouHack" title="Audio">🔊</a> <a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=TudouHack" title="Code">💻</a> <a href="#content-TudouHack" title="Content">🖋</a> <a href="#ideas-TudouHack" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/CrustySean"><img src="https://avatars.githubusercontent.com/u/59363047?v=4" width="100px;" alt=""/><br /><sub><b>イーリア 🄿🅁🄾 (Crusty Sean ★)#7214</b></sub></a><br /><a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=CrustySean" title="Code">💻</a> <a href="#content-CrustySean" title="Content">🖋</a></td>
   </tr>
 </table>
 
