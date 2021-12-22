@@ -6,6 +6,12 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.10.1: Hair Update!
+- Added Plaza NPCs
+- Added Textures for Player00 and 01
+- Improved Models
+- Updated Mush.Release
+
 ## V0.10: Hair Update!
 - Added a new level: I07G07
 - Updated Map.pack
