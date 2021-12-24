@@ -20,12 +20,12 @@
 Some screenshots from the mod
 
 <p>
-  <img src="/img/screenshot.png" width="240" height="135">
-  <img src="/img/screenshot1.png" width="240" height="135">
+  <img src="/img/screenshot.png" width="400" height="225">
+  <img src="/img/screenshot1.png" width="400" height="225">
 </p>
 <p>
-  <img src="/img/screenshot2.png" width="240" height="135">
-  <img src="/img/screenshot3.png" width="240" height="135">
+  <img src="/img/screenshot2.png" width="400" height="225">
+  <img src="/img/screenshot3.png" width="400" height="225">
 </p>
 
 ## Features
