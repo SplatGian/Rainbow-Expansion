@@ -1,12 +1,4 @@
-<h1 align="center">
-  <br>
-  <a><img src="https://github.com/SplatGian/Rainbow-Expansion-Download/blob/main/img/logo.png" alt="Rainbow Expansion" width="250"></a>
-  <br>
-  <b>Rainbow Expansion</b>
-  <br>
-</h1>
-
-[![trailer](https://img.youtube.com/vi/c-IK94D4qwM/maxresdefault.jpg)](https://youtu.be/c-IK94D4qwM)
+<h1 align="center"><img src="/img/logo.png" alt="Rainbow Expansion" width="250"></h1>
 
 <h4 align="center">Rainbow Expansion is an epic mod made by <a href="https://www.youtube.com/channel/UCvrS0vtrdIogrVnvWGuq_5w">Gian</a>.</h4>
 
@@ -15,20 +7,28 @@
         <img src="https://img.shields.io/discord/830880503884284025?style=for-the-badge&label=Gian%27s%20Server&logo=discord&logoColor=white"
             alt="Discord">
     </a>
-    <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-    <a href="#contributors-">
-        <img src="https://img.shields.io/badge/all_contributors-6-blueviolet.svg?style=for-the-badge"
-            alt="All Contributors">
-    </a>
-    <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
 
 <p align="center">
+  <a href="#gallery">Gallery</a> |
   <a href="#features">Features</a> |
+  <a href="#contributors">Contributors</a> |
   <a href="#installation">Installation</a>
 </p>
 
-## Features:
+## Gallery
+Some screenshots from the mod
+
+<p>
+  <img src="/img/screenshot.png" width="240" height="135">
+  <img src="/img/screenshot1.png" width="240" height="135">
+</p>
+<p>
+  <img src="/img/screenshot2.png" width="240" height="135">
+  <img src="/img/screenshot3.png" width="240" height="135">
+</p>
+
+## Features
 - Cool Custom Music (that loops) for Every Level and Boss
 - Custom Ink Colors
 - 2 Custom Boss Fights every release😎
@@ -43,6 +43,18 @@
 - Custom Hairstyles
 
 *Oh and S1 Maps are in the mod too...*
+
+## Contributors
+Thanks goes to these wonderful people (in no particular order)!
+
+|   | Author | Contributions |
+|:-:|:------:|:-------------:|
+|![SplatGian](https://avatars.githubusercontent.com/u/70701405?s=64)|Gian#7213|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=SplatGian)|
+|![AntoSkate](https://avatars.githubusercontent.com/u/36473846?s=64)|AntoSkate#8235|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=AntoSkate)|
+|![PastaMarie](https://avatars.githubusercontent.com/u/93050901?s=64)|Dr Pussycat#4960|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=PastaMarie)|
+|![mr-grizz-ly](https://avatars.githubusercontent.com/u/93011379?s=64)|grizz#5431|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=mr-grizz-ly)|
+|![TudouHack](https://avatars.githubusercontent.com/u/39432598?s=64)|Haxxie#8888|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=TudouHack)|
+|![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=CrustySean)|
 
 ## Installation
 ### Nintendo Switch (running the [atmosphere](https://github.com/Atmosphere-NX/Atmosphere) cfw)
@@ -62,28 +74,3 @@
   - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (to test ***work-in-progress*** features) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
   - Copy the file you downloaded in **mods/contents** in the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
   - Now you can boot **Splatoon 2** and play the ***Rainbow Expansion***!
-
-## Contributors ✨
-
-Thanks goes to these wonderful people in no particular order ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://discord.gg/3ZN2HPyHSw"><img src="https://avatars.githubusercontent.com/u/70701405?v=4" width="100px;" alt=""/><br /><sub><b>Gian#7213</b></sub></a><br /><a href="#audio-SplatGian" title="Audio">🔊</a> <a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=SplatGian" title="Code">💻</a> <a href="#content-SplatGian" title="Content">🖋</a> <a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=SplatGian" title="Documentation">📖</a> <a href="#ideas-SplatGian" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-SplatGian" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/AntoSkate"><img src="https://avatars.githubusercontent.com/u/36473846?v=4" width="100px;" alt=""/><br /><sub><b>AntoSkate#8235</b></sub></a><br /><a href="#audio-AntoSkate" title="Audio">🔊</a> <a href="#content-AntoSkate" title="Content">🖋</a> <a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=AntoSkate" title="Documentation">📖</a> <a href="#infra-AntoSkate" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-AntoSkate" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/PastaMarie"><img src="https://avatars.githubusercontent.com/u/93050901?v=4" width="100px;" alt=""/><br /><sub><b>Dr Pussycat#4960</b></sub></a><br /><a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=PastaMarie" title="Code">💻</a> <a href="#content-PastaMarie" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/mr-grizz-ly"><img src="https://avatars.githubusercontent.com/u/93011379?v=4" width="100px;" alt=""/><br /><sub><b>grizz#0001</b></sub></a><br /><a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=mr-grizz-ly" title="Code">💻</a> <a href="#content-mr-grizz-ly" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/TudouHack"><img src="https://avatars.githubusercontent.com/u/39432598?v=4" width="100px;" alt=""/><br /><sub><b>Haxxie#8888</b></sub></a><br /><a href="#audio-TudouHack" title="Audio">🔊</a> <a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=TudouHack" title="Code">💻</a> <a href="#content-TudouHack" title="Content">🖋</a> <a href="#ideas-TudouHack" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/CrustySean"><img src="https://avatars.githubusercontent.com/u/59363047?v=4" width="100px;" alt=""/><br /><sub><b>イーリア 🄿🅁🄾 (Crusty Sean ★)#7214</b></sub></a><br /><a href="https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=CrustySean" title="Code">💻</a> <a href="#content-CrustySean" title="Content">🖋</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
