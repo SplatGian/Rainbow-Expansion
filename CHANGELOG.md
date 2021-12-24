@@ -6,6 +6,12 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.11: Cool Update!
+- Added イーリア 🄿🅁🄾 (Crusty Sean ★)'s Plaza NPC
+- Added 2 New Levels
+- Updated Mush.release.pack
+- General Improvements
+
 ## V0.10.1: Hair Update!
 - Added Plaza NPCs
 - Added Textures for Player00 and 01
