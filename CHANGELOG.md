@@ -9,7 +9,7 @@ All changes to the mod will be documented in this file.
 ## V0.12: Christmas Update!
 - Added 2 New Levels
 - Updated Mush.release.pack
-- Added Plaza Textures
+- Added and fixed Plaza Textures
 
 Last Weapon Textures are coming really soon...
 
