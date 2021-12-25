@@ -6,6 +6,17 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.12: Christmas Update!
+- Added 2 New Levels
+- Updated Mush.release.pack
+- Added Plaza Textures
+
+Last Weapon Textures are coming really soon...
+
+Last Boss (+ looping custom music) is coming really soon...
+
+Last Beta Update is around the corner, get Ready for Epic Mod's release!
+
 ## V0.11: Cool Update!
 - Added イーリア 🄿🅁🄾 (Crusty Sean ★)'s Plaza NPC
 - Added 2 New Levels
