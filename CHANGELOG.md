@@ -6,6 +6,16 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.13: Plaza Update!
+- Added a Checpoint in level G06A01
+- Updated Mush.release
+- Updated Map.pack
+- Updated Param.pack
+- Added cool inkopolis square
+- Added Custom Music and Cool Env for Inkopolis Square
+- Added Custom Layout for Deepsea Metro Map
+- Added last Weapon Textures
+
 ## V0.12: Christmas Update!
 - Added 2 New Levels
 - Updated Mush.release.pack
