@@ -6,6 +6,12 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.13.1: Plaza Update!
+- Added a New Level: G09B05
+- Updated Mush.release.pack
+- Added Brush Retexture
+- Improved Octoling Girl Hair
+
 ## V0.13: Plaza Update!
 - Added a Checpoint in level G06A01
 - Updated Mush.release
