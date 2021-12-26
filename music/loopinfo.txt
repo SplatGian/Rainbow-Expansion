@@ -1,6 +1,8 @@
 bfstm                           | start   | end
 name                            | samples | samples
 
+BaseNoise_Plaza                 | 1291652 | 7745283
+Plaza00_c_VS                    | 1291652 | 7745283
 STRM_Showdown_Octa              | 1937181 | 5089574
 STRM_Stage_8ball_Octa           | 0450185 | 3028099
 STRM_Stage_Aim_Octa             | 1365734 | 3023920
