@@ -6,6 +6,11 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.14: Boss Update!
+- Added the second Boss
+- Updated Map.pack
+- Updated Weapon Textures
+
 ## V0.13.1: Inkopolis Square Update!
 - Added a New Level: G09B05
 - Updated Mush.release.pack
