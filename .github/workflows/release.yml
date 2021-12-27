@@ -26,22 +26,22 @@ jobs:
       - name: Create mod zip files
         run: |
           mkdir 0100F8F0000A2000
-          rsync -R romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm 0100F8F0000A2000
+          rsync -R romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz.bfstm romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz_Minigame.bfstm 0100F8F0000A2000
 
           mkdir 01003C700009C000
-          rsync -R romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm 01003C700009C000
+          rsync -R romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz.bfstm romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz_Minigame.bfstm 01003C700009C000
 
           mkdir 01003BC0000A0000
-          rsync -R romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm 01003BC0000A0000
+          rsync -R romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz.bfstm romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz_Minigame.bfstm 01003BC0000A0000
 
           mkdir 0100F8F0000A3065
-          rsync -a romfs 0100F8F0000A3065 --exclude romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm --exclude romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm
+          rsync -a romfs 0100F8F0000A3065 --exclude romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm --exclude romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm --exclude romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz.bfstm --exclude romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz_Minigame.bfstm
 
           mkdir 01003C700009D065
-          rsync -a romfs 01003C700009D065 --exclude romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm --exclude romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm
+          rsync -a romfs 01003C700009D065 --exclude romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm --exclude romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm --exclude romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz.bfstm --exclude romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz_Minigame.bfstm
 
           mkdir 01003BC0000A1065
-          rsync -a romfs 01003BC0000A1065 --exclude romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm --exclude romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm
+          rsync -a romfs 01003BC0000A1065 --exclude romfs/Sound/Resource/Stream/BaseNoise_Plaza.bfstm --exclude romfs/Sound/Resource/Stream/Plaza00_c_VS.bfstm --exclude romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz.bfstm --exclude romfs/Sound/Resource/Stream/STRM_Mission_Boss_Blitz_Minigame.bfstm
 
           zip -r EU.zip 0100F8F0000A2000 0100F8F0000A3065
 
