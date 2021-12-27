@@ -6,6 +6,9 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.14.2: Boss Update!
+- Fixed a Softlock when u talked to the subway conductors
+
 ## V0.14.1: Boss Update!
 - Add Looping Custom Music for the Second Boss
 - Add Custom Level Names
