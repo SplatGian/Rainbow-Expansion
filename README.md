@@ -32,10 +32,10 @@ Some screenshots from the mod
 - Cool Custom Music (that loops) for Every Level and Boss
 - Custom Ink Colors
 - 2 Custom Boss Fights every release😎
-- More than 15 Levels
+- 19 Levels
 - Cool Models and Textures
 - Cool Clothes, Hair and Octopus textures
-- Custom Texts (There are some Easter Eggs in the mod👀)
+- Custom Texts
 - Custom Loading Anims
 - Custom Eyes and Weapon Textures
 - Custom NPC's in the Plaza with the Mod Contributor's names
