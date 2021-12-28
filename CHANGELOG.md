@@ -6,6 +6,9 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
+## V0.14.6: Boss Update!
+- Added Custom Text for US S2 (doesn't work on ver3.1, maybe cuz it's really old ?)
+
 ## V0.14.5: Boss Update!
 - Fixed Param.pack
 
