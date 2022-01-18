@@ -58,16 +58,16 @@ Thanks goes to these wonderful people (in no particular order)!
 
 ## Installation
 ### Nintendo Switch (running the [atmosphere](https://github.com/Atmosphere-NX/Atmosphere) cfw)
-- Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (to test ***work-in-progress*** features) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
+- Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
 - Copy the file you downloaded in **atmosphere/contents** on your Switch's sd card (you can also use [ftpd](https://github.com/mtheall/ftpd) to access its files) and unzip it
 
 ### Emulators
 - **Ryujinx**
-  - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (to test ***work-in-progress*** features) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
+  - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
   - Copy the file you downloaded in **mods/contents** in the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
 
 - **yuzu**
-  - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) or the [WIP version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/tag/wip) (to test ***work-in-progress*** features) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
+  - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
   - Copy the file you downloaded in **load** in the yuzu folder (***File -> Open yuzu Folder***) and unzip it
   - Europe
     - Create a new folder (you can name it *Rainbow Expansion*) in 0100F8F0000A2000 and in 0100F8F0000A3065
