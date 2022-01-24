@@ -29,45 +29,46 @@ Some screenshots from the mod
 </p>
 
 ## Features
-- Cool Custom Music (that loops) for Every Level and Boss
-- Custom Ink Colors
-- 2 Custom Boss Fights every release😎
-- 19 Levels
-- Cool Models and Textures
-- Cool Clothes, Hair and Octopus textures
-- Custom Texts
-- Custom Loading Anims
-- Custom Eyes and Weapon Textures
-- Custom NPC's in the Plaza with the Mod Contributor's names
-- Custom Fonts
-- Custom Hairstyles
+- 🎧 Cool Custom Music (that loops)
+- 🎨 Custom Ink Colors
+- 😎 2 Custom Boss Fights every release
+- 🗿 19 Levels
+- ✨ Cool Models and Textures
+- 👕 Cool Clothes, Hair and Octopus textures
+- 📄 Custom Texts
+- ⏳ Custom Loading Animations
+- 👀 Custom Eyes and Weapon textures
+- 🧑‍💻 Custom NPCs in the Plaza with the Mod Contributors' names
+- 🔠 Custom Fonts
+- 💈 Custom Hairstyles
 
 *Oh and S1 Maps are in the mod too...*
 
 ## Contributors
 Thanks goes to these wonderful people (in no particular order)!
 
-|   | Author | Contributions |
-|:-:|:------:|:-------------:|
-|![SplatGian](https://avatars.githubusercontent.com/u/70701405?s=64)|Gian#7213|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=SplatGian)|
-|![AntoSkate](https://avatars.githubusercontent.com/u/36473846?s=64)|AntoSkate#8235|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=AntoSkate)|
-|![PastaMarie](https://avatars.githubusercontent.com/u/93050901?s=64)|Dr Pussycat#4960|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=PastaMarie)|
-|![mr-grizz-ly](https://avatars.githubusercontent.com/u/93011379?s=64)|grizz#5431|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=mr-grizz-ly)|
-|![TudouHack](https://avatars.githubusercontent.com/u/39432598?s=64)|Haxxie#8888|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=TudouHack)|
-|![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|[Contributions](https://github.com/SplatGian/Rainbow-Expansion-Download/commits?author=CrustySean)|
+|   | Name | Discord username | Contributions |
+|:-:|:----:|:----------------:|:-------------:|
+|![SplatGian](https://avatars.githubusercontent.com/u/70701405?s=64)|Gian|Gian#7213|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=SplatGian)|
+|![AntoSkate](https://avatars.githubusercontent.com/u/36473846?s=64)|AntoSkate|AntoSkate#8235|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=AntoSkate)|
+|![BunnyGames98](https://avatars.githubusercontent.com/u/77182138?s=64)|Bunn|Bunn#3641|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=BunnyGames98)|
+|![PastaMarie](https://avatars.githubusercontent.com/u/93050901?s=64)|BepisMarie|Dr Pussycat#4960|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=PastaMarie)|
+|![mr-grizz-ly](https://avatars.githubusercontent.com/u/93011379?s=64)|grizz|grizz#5431|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=mr-grizz-ly)|
+|![TudouHack](https://avatars.githubusercontent.com/u/39432598?s=64)|Haxxie|Haxxie#8888|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=TudouHack)|
+|![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|Crusty Sean ★|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=CrustySean)|
 
 ## Installation
 ### Nintendo Switch (running the [atmosphere](https://github.com/Atmosphere-NX/Atmosphere) cfw)
-- Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
+- Download the [latest release](https://github.com/SplatGian/Rainbow-Expansion/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
 - Copy the file you downloaded in **atmosphere/contents** on your Switch's sd card (you can also use [ftpd](https://github.com/mtheall/ftpd) to access its files) and unzip it
 
 ### Emulators
 - **Ryujinx**
-  - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
+  - Download the [latest release](https://github.com/SplatGian/Rainbow-Expansion/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
   - Copy the file you downloaded in **mods/contents** in the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
 
 - **yuzu**
-  - Download the [latest version](https://github.com/SplatGian/Rainbow-Expansion-Download/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
+  - Download the [latest release](https://github.com/SplatGian/Rainbow-Expansion/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
   - Copy the file you downloaded in **load** in the yuzu folder (***File -> Open yuzu Folder***) and unzip it
   - Europe
     - Create a new folder (you can name it *Rainbow Expansion*) in 0100F8F0000A2000 and in 0100F8F0000A3065
