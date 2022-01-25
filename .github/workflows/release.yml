@@ -25,21 +25,23 @@ jobs:
 
       - name: Create mod zip files
         run: |
-          mv romfs-vanilla romfs
-          rsync -a romfs 0100F8F0000A2000
-          rsync -a romfs 01003C700009C000
-          rsync -a romfs 01003BC0000A0000
-          mv romfs romfs-vanilla
+          mkdir 0100F8F0000A2000 0100F8F0000A3065
+          
+          cp -r romfs-vanilla/ 0100F8F0000A2000/romfs & cp -r romfs-octo/ 0100F8F0000A3065/romfs
 
-          mv romfs-octo romfs
-          rsync -a romfs 0100F8F0000A3065
-          rsync -a romfs 01003C700009D065
-          rsync -a romfs 01003BC0000A1065
-          mv romfs romfs-octo
+          7z a -t7z EU 0100F8F0000A2000 0100F8F0000A3065
+          7z a -tzip EU 0100F8F0000A2000 0100F8F0000A3065
 
-          zip -r EU.zip 0100F8F0000A2000 0100F8F0000A3065
-          zip -r JP.zip 01003C700009C000 01003C700009D065
-          zip -r US.zip 01003BC0000A0000 01003BC0000A1065
+          cp EU.7z JP.7z & cp EU.7z US.7z & cp EU.zip JP.zip & cp EU.zip US.zip
+
+          7z rn JP.7z 0100F8F0000A2000 01003C700009C000
+          7z rn JP.7z 0100F8F0000A3065 01003C700009D065
+          7z rn JP.zip 0100F8F0000A2000 01003C700009C000
+          7z rn JP.zip 0100F8F0000A3065 01003C700009D065
+          7z rn US.7z 0100F8F0000A2000 01003BC0000A0000
+          7z rn US.7z 0100F8F0000A3065 01003BC0000A1065
+          7z rn US.zip 0100F8F0000A2000 01003BC0000A0000
+          7z rn US.zip 0100F8F0000A3065 01003BC0000A1065
 
       - name: GH Release
         uses: softprops/action-gh-release@v1
@@ -47,8 +49,11 @@ jobs:
           body: ${{ github.event.inputs.body }}
           prerelease: ${{ github.event.inputs.prerelease }}
           files: |
+            EU.7z
             EU.zip
+            JP.7z
             JP.zip
+            US.7z
             US.zip
           name: ${{ github.event.inputs.name }}
           tag_name: ${{ github.event.inputs.tag }}
