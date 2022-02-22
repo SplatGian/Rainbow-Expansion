@@ -3,7 +3,7 @@
 <h4 align="center">Rainbow Expansion is an epic mod made by <a href="https://www.youtube.com/channel/UCvrS0vtrdIogrVnvWGuq_5w">Gian</a>.</h4>
 
 <p align="center">
-    <a href="https://discord.com/invite/3ZN2HPyHSw">
+    <a href="https://discord.com/invite/NuVYYFYYVg">
         <img src="https://img.shields.io/discord/830880503884284025?style=for-the-badge&label=Gian%27s%20Server&logo=discord&logoColor=white"
             alt="Discord">
     </a>
