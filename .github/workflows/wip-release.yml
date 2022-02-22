@@ -1,0 +1,50 @@
+name: Work In Progress
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'romfs-octo/**'
+      - 'romfs-vanilla/**'
+
+  workflow_dispatch:
+
+jobs:
+  release-mod:
+    if: github.repository == 'SplatGian/Rainbow-Expansion-Private'
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Package EU mod files
+        run: |
+          Copy-Item -Path romfs-vanilla/ -Destination 0100F8F0000A2000/romfs -Recurse
+          Copy-Item -Path romfs-octo/ -Destination 0100F8F0000A3065/romfs -Recurse
+          7z a -tzip EU 0100F8F0000A2000 0100F8F0000A3065
+
+      - name: Package JP mod files
+        run: |
+          Copy-Item -Path EU.zip -Destination JP.zip
+          7z rn -tzip JP 0100F8F0000A2000 01003C700009C000
+          7z rn -tzip JP 0100F8F0000A3065 01003C700009D065
+
+      - name: Package US mod files
+        run: |
+          Copy-Item -Path EU.zip -Destination US.zip
+          7z rn -tzip US 0100F8F0000A2000 01003BC0000A0000
+          7z rn -tzip US 0100F8F0000A3065 01003BC0000A1065
+
+      - name: Delete previous release
+        run: |
+          git push --delete origin wip
+
+      - name: GitHub release
+        uses: softprops/action-gh-release@v1
+        with:
+          body: Latest mod files for testers
+          files: |
+            EU.zip
+            JP.zip
+            US.zip
+          name: Work In Progress
+          tag_name: wip
