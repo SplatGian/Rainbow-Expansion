@@ -1,0 +1,28 @@
+bfstm                           | start   | end
+name                            | samples | samples
+
+- vanilla
+
+BaseNoise_Plaza                 | 1291652 | 7745283
+Plaza00_c_VS                    | 1291652 | 7745283
+STRM_Mission_Boss_Blitz         | 0860720 | 2839021
+STRM_Mission_Boss_Blitz_Minigame| 0860720 | 2839021
+
+- octo
+
+MissionEnd_Octa                 | ------- | -------
+STRM_Showdown_Octa              | 1937181 | 5089574
+STRM_Stage_8ball_Octa           | 0450185 | 3028099
+STRM_Stage_Aim_Octa             | 1128359 | 4942642
+STRM_Stage_March_Octa           | 0182617 | 4506505
+STRM_Stage_Rival_Octa           | 1620751 | 4792922
+STRM_Stage_Sennyu_NoVocal_Octa  | 1128359 | 4942642
+STRM_Stage_Sennyu_Octa          | 1128359 | 4942642
+STRM_Stage_Sphere_Octa          | 2095228 | 4545209
+STRM_Stage_Start01_Octa         | 0903890 | 2417814
+STRM_Stage_StrikeYoke_Octa      | 2095228 | 4545209
+STRM_Stage_test01_Octa          | 0159435 | 4281771
+STRM_Stage_test02_Octa          | 1128359 | 4942642
+STRM_Stage_test03_Octa          | 0004424 | 4776862
+STRM_Stage_think_Octa           | 1128359 | 4942642
+STRM_Stage_ThinkMove_Octa       | 0012326 | 5890062
