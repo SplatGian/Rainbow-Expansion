@@ -11,7 +11,7 @@ STRM_Mission_Boss_Blitz_Minigame| 0860720 | 2839021
 - octo
 
 MissionEnd_Octa                 | ------- | -------
-STRM_Showdown_Octa              | 1937181 | 5089574
+STRM_Showdown_Octa              | 1899584 | 4234805
 STRM_Stage_8ball_Octa           | 0450185 | 3028099
 STRM_Stage_Aim_Octa             | 1128359 | 4942642
 STRM_Stage_March_Octa           | 0182617 | 4506505
