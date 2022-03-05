@@ -28,24 +28,27 @@ jobs:
           Copy-Item -Path romfs-vanilla/ -Destination 0100F8F0000A2000/romfs -Recurse
           Copy-Item -Path romfs-octo/ -Destination 0100F8F0000A3065/romfs -Recurse
           7z a -tzip EU 0100F8F0000A2000 0100F8F0000A3065
+          Remove-Item -Path 0100F8F0000A2000/romfs/Sound -Recurse
           Remove-Item -Path 0100F8F0000A3065/romfs/Sound -Recurse
-          7z a -tzip EU_NOMUSIC 0100F8F0000A3065
+          7z a -tzip EU_nomusic 0100F8F0000A2000 0100F8F0000A3065
 
       - name: Package JP mod files
         run: |
           Copy-Item -Path EU.zip -Destination JP.zip
-          Copy-Item -Path EU_NOMUSIC.zip -Destination JP_NOMUSIC.zip
+          Copy-Item -Path EU_nomusic.zip -Destination JP_nomusic.zip
           7z rn -tzip JP 0100F8F0000A2000 01003C700009C000
           7z rn -tzip JP 0100F8F0000A3065 01003C700009D065
-          7z rn -tzip JP_NOMUSIC 0100F8F0000A3065 01003C700009D065
+          7z rn -tzip JP_nomusic 0100F8F0000A2000 01003C700009C000
+          7z rn -tzip JP_nomusic 0100F8F0000A3065 01003C700009D065
 
       - name: Package US mod files
         run: |
           Copy-Item -Path EU.zip -Destination US.zip
-          Copy-Item -Path EU_NOMUSIC.zip -Destination US_NOMUSIC.zip
+          Copy-Item -Path EU_nomusic.zip -Destination US_nomusic.zip
           7z rn -tzip US 0100F8F0000A2000 01003BC0000A0000
           7z rn -tzip US 0100F8F0000A3065 01003BC0000A1065
-          7z rn -tzip US_NOMUSIC 0100F8F0000A3065 01003BC0000A1065
+          7z rn -tzip US_nomusic 0100F8F0000A2000 01003BC0000A0000
+          7z rn -tzip US_nomusic 0100F8F0000A3065 01003BC0000A1065
 
       - name: GitHub release
         uses: softprops/action-gh-release@v1
@@ -54,10 +57,10 @@ jobs:
           prerelease: ${{ github.event.inputs.prerelease }}
           files: |
             EU.zip
-            EU_NOMUSIC.zip
+            EU_nomusic.zip
             JP.zip
-            JP_NOMUSIC.zip
+            JP_nomusic.zip
             US.zip
-            US_NOMUSIC.zip
+            US_nomusic.zip
           name: ${{ github.event.inputs.name }}
           tag_name: ${{ github.event.inputs.tag }}
