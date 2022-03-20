@@ -28,7 +28,7 @@ Some screenshots from the mod
   <img src="/img/screenshot3.png" width="400" height="225">
 </p>
 
-## Features
+## Rainbow Expansion 1 Features
 - 🎧 Cool Custom Music (that loops)
 - 🎨 Custom Ink Colors
 - 😎 2 Custom Boss Fights every release
@@ -43,6 +43,19 @@ Some screenshots from the mod
 - 💈 Custom Hairstyles
 
 *Oh and S1 Maps are in the mod too...*
+
+## Introducing...
+- Custom Weapon Params
+- Custom Ink Colors (now also for the enemies)
+- New Looping Custom Music
+- 19 New Levels and 2 New Custom Bosses
+- Starting and Ending Levels Music
+- New Fonts (8-bit styled)
+- New Hair
+- New Textures
+- Custom Mem Cakes
+- A new Look to Rainbow Expansion's Layout/Animations/Loading Screens/...
+- New Custom Text
 
 ## Contributors
 Thanks goes to these wonderful people (in no particular order)!
