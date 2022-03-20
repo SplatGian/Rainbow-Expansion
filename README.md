@@ -54,7 +54,7 @@ Some screenshots from the mod
 - New Hair
 - New Textures
 - Custom Mem Cakes
-- A new Look to the Rainbow Expansion's Layout/Animations/Loading Screens/...
+- A new Look to Rainbow Expansion's Layout/Animations/Loading Screens/...
 - New Custom Text
 
 ## Contributors
