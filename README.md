@@ -48,7 +48,7 @@ Some screenshots from the mod
 - Custom Weapon Params
 - Custom Ink Colors (now also for the enemies)
 - New Looping Custom Music
-- 19 New Levels and 2 New Custom Bosses
+- 16 New Levels and 2 New Custom Bosses
 - Starting and Ending Levels Music
 - New Fonts (8-bit styled)
 - New Hair
