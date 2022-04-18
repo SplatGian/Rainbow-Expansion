@@ -34,12 +34,8 @@ jobs:
           7z rn -tzip US 0100F8F0000A2000 01003BC0000A0000
           7z rn -tzip US 0100F8F0000A3065 01003BC0000A1065
 
-      - name: Delete previous release
-        run: |
-          git push --delete origin wip
-
       - name: GitHub release
-        uses: softprops/action-gh-release@v1
+        uses: ncfavier/action-gh-release@delete-existing
         with:
           body: Latest mod files for testers
           files: |
@@ -48,3 +44,4 @@ jobs:
             US.zip
           name: Work In Progress
           tag_name: wip
+          delete_on_existing: true
