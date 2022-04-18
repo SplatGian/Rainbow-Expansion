@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="#gallery">Gallery</a> |
-  <a href="#features">Features</a> |
-  <a href="#contributors">Contributors</a> |
-  <a href="#installation">Installation</a>
+  <a href="#map">Map</a> |
+  <a href="#installation">Installation</a> |
+  <a href="#contributors">Contributors</a>
 </p>
 
 ## Gallery
@@ -26,6 +26,11 @@ Some screenshots from the mod
 <p>
   <img src="/img/screenshot2.png" width="400" height="225">
   <img src="/img/screenshot3.png" width="400" height="225">
+</p>
+
+## Map
+<p>
+  <img src="/img/map.png" width="800" height="450">
 </p>
 
 ## Rainbow Expansion 1 Features
@@ -57,6 +62,27 @@ Some screenshots from the mod
 - A new Look to Rainbow Expansion's Layout/Animations/Loading Screens/...
 - New Custom Text
 
+## Installation
+- Download the [latest release](https://github.com/SplatGian/Rainbow-Expansion/releases/latest) for your **Splatoon 2 version** (*You can download REGION_nomusic.zip instead of REGION.zip if you don't want to hear the custom music*)
+
+- <details open>
+  <summary>Nintendo Switch</summary>
+
+  - Copy the file you downloaded in **atmosphere/contents** on your Switch's sd card (you can also use [ftpd](https://github.com/mtheall/ftpd) to access its files) and unzip it
+
+  </details>
+
+- <details>
+  <summary>Emulators</summary>
+
+  - Ryujinx
+    - Copy the file you downloaded in **mods/contents** in the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
+
+  - yuzu
+    - Copy the file you downloaded in **sdmc/atmosphere/contents** in the yuzu folder (***File -> Open yuzu Folder***) and unzip it
+
+  </details>
+
 ## Contributors
 Thanks goes to these wonderful people (in no particular order)!
 
@@ -69,43 +95,3 @@ Thanks goes to these wonderful people (in no particular order)!
 |![mr-grizz-ly](https://avatars.githubusercontent.com/u/93011379?s=64)|grizz|grizz#5431|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=mr-grizz-ly)|
 |![TudouHack](https://avatars.githubusercontent.com/u/97150065?s=64)|Haxxie|Haxxie#8888|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=TudouHack)|
 |![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|Crusty Sean ★|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=CrustySean)|
-
-## Installation
-- Download the [latest release](https://github.com/SplatGian/Rainbow-Expansion/releases/latest) for your **Splatoon 2 version** (EU.zip for Europe, JP.zip for Japan and US.zip for United States)
-  - *You can download REGION_nomusic.zip instead of REGION.zip if you don't want to hear the copyrighted music*
-
-  <br>
-- <details open>
-  <summary>Nintendo Switch</summary>
-
-  - Copy the file you downloaded in **atmosphere/contents** on your Switch's sd card (you can also use [ftpd](https://github.com/mtheall/ftpd) to access its files) and unzip it
-
-  </details>
-
-- <details>
-  <summary>Emulators</summary>
-
-  - <details>
-    <summary>Ryujinx</summary>
-
-    - Copy the file you downloaded in **mods/contents** in the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
-
-    </details>
-
-  - <details>
-    <summary>yuzu</summary>
-
-    - Copy the file you downloaded in **load** in the yuzu folder (***File -> Open yuzu Folder***) and unzip it
-      - Europe
-        - Create a new folder (you can name it *Rainbow Expansion*) in 0100F8F0000A2000 and in 0100F8F0000A3065
-        - Move '*romfs*' from 0100F8F0000A2000 and 0100F8F0000A3065 to the new folders
-      - Japan
-        - Create a new folder (you can name it *Rainbow Expansion*) in 01003C700009C000 and in 01003C700009D065
-        - Move '*romfs*' from 01003C700009C000 and 01003C700009D065 to the new folders
-      - United States
-        - Create a new folder (you can name it *Rainbow Expansion*) in 01003BC0000A0000 and in 01003BC0000A1065
-        - Move '*romfs*' from 01003BC0000A0000 and 01003BC0000A1065 to the new folders
-
-    </details>
-
-  </details>
