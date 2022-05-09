@@ -6,8 +6,37 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
-## Rainbow Expansion 2 Private!
-- Added sex
+## Rainbow Expansion 2 ver.2.0.1!
+- Fixed a bug where the "Ink, Ink Station" level crashed after the loading screen
+- Minor Improvements
+
+## Rainbow Expansion 2!
+- Custom Weapon Params
+- Custom Ink Colors (now also for the enemies)
+- New Looping Custom Music
+- 16 New Levels and 2 New Custom Bosses (with a total of 35 levels and 3 Bosses!)
+- Starting and Ending Levels Music
+- New Fonts (8-bit styled)
+- New Hair
+- New Textures
+- Custom Mem Cakes
+- A new Look to Rainbow Expansion's Layout/Animations/Loading Screens/...
+- New Custom Text
+
+## Rainbow Expansion (first public release)
+- Cool Custom Music (that loops)
+- Custom Ink Colors
+- 2 Custom Boss Fights every release
+- 19 Levels
+- Cool Models and Textures
+- Cool Clothes, Hair and Octopus textures
+- Custom Texts
+- Custom Loading Animations
+- Custom Eyes and Weapon textures
+- Custom NPCs in the Plaza with the Mod Contributors' names
+- Custom Fonts
+- Custom Hairstyles
+- S1 Maps
 
 ## V0.14.6: Boss Update!
 - Added Custom Text for US S2 (doesn't work on ver3.1, maybe cuz it's really old ?)
