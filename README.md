@@ -84,7 +84,7 @@ Some screenshots from the mod
   </details>
 
 ## Contributors
-Thanks goes to these wonderful people (in no particular order)!
+Special Thanks go to these wonderful people (in no particular order)!
 
 |   | Name | Discord username | Contributions |
 |:-:|:----:|:----------------:|:-------------:|
