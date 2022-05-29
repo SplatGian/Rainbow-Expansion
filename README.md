@@ -63,7 +63,7 @@ Some screenshots from the mod
 - New Custom Text
 
 ## Installation
-- Download the [latest release](https://github.com/SplatGian/Rainbow-Expansion/releases/latest) for your **Splatoon 2 version** (*You can download REGION_nomusic.zip instead of REGION.zip if you don't want to hear the custom music*)
+- Download the [latest release](https://github.com/SplatGian/Rainbow-Expansion/releases/latest) for your **Splatoon 2 version**
 
 - <details open>
   <summary>Nintendo Switch</summary>
