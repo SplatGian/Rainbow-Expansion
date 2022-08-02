@@ -1,28 +1,40 @@
-bfstm                           | start   | end
-name                            | samples | samples
+                        | start   | end
+                        | samples | samples
 
-- vanilla
+- rainbow expansion 1
 
-BaseNoise_Plaza                 | 1291652 | 7745283
-Plaza00_c_VS                    | 1291652 | 7745283
-STRM_Mission_Boss_Blitz         | 0860720 | 2839021
-STRM_Mission_Boss_Blitz_Minigame| 0860720 | 2839021
+plaza                   | 1291652 | 7745283
+boss / bossminigame     | 0275724 | 5178419
 
-- octo
+8ball                   | 0450185 | 3028099
+agent3                  | 1937181 | 5089574
+octoling                | 6223204 | 9336485
+level0                  | 1365734 | 3023920
+level1                  | 0742839 | 3970584
+level2                  | 1026060 | 5124717
+level3                  | 1124392 | 4197081
+level4                  | 1979756 | 4307347
+level5                  | 2049132 | 4099649
+level6                  | 1346901 | 3476932
+level7                  | 0808275 | 3571333
+level8                  | 1084173 | 4311917
 
-MissionEnd_Octa                 | ------- | -------
-STRM_Showdown_Octa              | 1899584 | 4234805
-STRM_Stage_8ball_Octa           | 0450185 | 3028099
-STRM_Stage_Aim_Octa             | 1128359 | 4942642
-STRM_Stage_March_Octa           | 0182617 | 4506505
-STRM_Stage_Rival_Octa           | 1620751 | 4792922
-STRM_Stage_Sennyu_NoVocal_Octa  | 1128359 | 4942642
-STRM_Stage_Sennyu_Octa          | 1128359 | 4942642
-STRM_Stage_Sphere_Octa          | 2095228 | 4545209
-STRM_Stage_Start01_Octa         | 0903890 | 2417814
-STRM_Stage_StrikeYoke_Octa      | 2095228 | 4545209
-STRM_Stage_test01_Octa          | 0159435 | 4281771
-STRM_Stage_test02_Octa          | 1128359 | 4942642
-STRM_Stage_test03_Octa          | 0004424 | 4776862
-STRM_Stage_think_Octa           | 1128359 | 4942642
-STRM_Stage_ThinkMove_Octa       | 0012326 | 5890062
+- rainbow expansion 2
+
+boss0 / bossminigame0   | 0860720 | 2839021
+
+agent30                 | 1899584 | 4234805
+missionend              | ------- | -------
+missionstart            | 0903890 | 2417814
+octoling0               | 1620751 | 4792922
+level00                 | 1128359 | 4942642
+level01                 | 0182617 | 4506505
+level02                 | 2095228 | 4545209
+level03                 | 0159435 | 4281771
+level04                 | 0004424 | 4776862
+level05                 | 0012326 | 5890062
+
+- rainbow expansion 3
+
+8ball1                  | 0447208 | 4985882
+level10                 | 0447208 | 4985882
