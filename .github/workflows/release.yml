@@ -18,10 +18,10 @@ on:
 
 jobs:
   release-mod:
-    if: github.repository == 'SplatGian/Rainbow-Expansion'
+    if: github.repository == '${{ github.repository_owner }}/Rainbow-Expansion'
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Package EU mod files
         run: |
