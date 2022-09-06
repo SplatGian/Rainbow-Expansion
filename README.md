@@ -1,36 +1,35 @@
-<h1 align="center"><img src="/img/logo.png" alt="Rainbow Expansion" width="250"></h1>
+<h1 align="center"><img src="/img/logo.png" alt="Rainbow Expansion" style="max-width:250px;width:30%"></h1>
 
 <h4 align="center">Rainbow Expansion is an epic mod made by <a href="https://www.youtube.com/channel/UCvrS0vtrdIogrVnvWGuq_5w">Gian</a>.</h4>
 
 <p align="center">
-    <a href="https://discord.com/invite/NuVYYFYYVg">
-        <img src="https://img.shields.io/discord/830880503884284025?style=for-the-badge&label=Gian%27s%20Server&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
+	<a href="https://discord.com/invite/NuVYYFYYVg">
+		<img src="https://img.shields.io/discord/830880503884284025?style=for-the-badge&label=Gian%27s%20Server&logo=discord&logoColor=white" alt="Discord">
+	</a>
 </p>
 
 <p align="center">
-  <a href="#gallery">Gallery</a> |
-  <a href="#map">Map</a> |
-  <a href="#installation">Installation</a> |
-  <a href="#contributors">Contributors</a>
+	<a href="#gallery">Gallery</a> |
+	<a href="#map">Map</a> |
+	<a href="#installation">Installation</a> |
+	<a href="#contributors">Contributors</a>
 </p>
 
 ## Gallery
 Some screenshots from the mod
 
 <p>
-  <img src="/img/screenshot.png" width="400" height="225">
-  <img src="/img/screenshot1.png" width="400" height="225">
+	<img src="/img/screenshot.png" alt="Rainbow Expansion screenshot" style="max-width:400px;width:49%">
+	<img src="/img/screenshot1.png" alt="Rainbow Expansion screenshot" style="max-width:400px;width:49%">
 </p>
 <p>
-  <img src="/img/screenshot2.png" width="400" height="225">
-  <img src="/img/screenshot3.png" width="400" height="225">
+	<img src="/img/screenshot2.png" alt="Rainbow Expansion screenshot" style="max-width:400px;width:49%">
+	<img src="/img/screenshot3.png" alt="Rainbow Expansion screenshot" style="max-width:400px;width:49%">
 </p>
 
 ## Map
 <p>
-  <img src="/img/map.png" width="800" height="450">
+	<img src="/img/map.png" alt="Rainbow Expansion map" style="max-width:800px;width:100%">
 </p>
 
 ## Rainbow Expansion 1 Features
