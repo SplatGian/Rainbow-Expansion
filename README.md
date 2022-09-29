@@ -1,39 +1,39 @@
-<h1 align="center"><img src="/img/logo.png" alt="Rainbow Expansion" width="250"></h1>
+<h1 align="center"><img src="/img/logo.png" alt="Rainbow Expansion" style="max-width: 250px; width: 30%;"></h1>
 
 <h4 align="center">Rainbow Expansion is an epic mod made by <a href="https://www.youtube.com/channel/UCvrS0vtrdIogrVnvWGuq_5w">Gian</a>.</h4>
 
 <p align="center">
-    <a href="https://discord.com/invite/NuVYYFYYVg">
-        <img src="https://img.shields.io/discord/830880503884284025?style=for-the-badge&label=Gian%27s%20Server&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
+	<a href="https://discord.com/invite/NuVYYFYYVg">
+		<img src="https://img.shields.io/discord/830880503884284025?style=for-the-badge&label=Gian%27s%20Server&logo=discord&logoColor=white" alt="Discord">
+	</a>
 </p>
 
 <p align="center">
-  <a href="#gallery">Gallery</a> |
-  <a href="#map">Map</a> |
-  <a href="#installation">Installation</a> |
-  <a href="#contributors">Contributors</a>
+	<a href="#gallery">Gallery</a> |
+	<a href="#map">Map</a> |
+	<a href="#installation">Installation</a> |
+	<a href="#contributors">Contributors</a>
 </p>
 
 ## Gallery
+
 Some screenshots from the mod
 
-<p>
-  <img src="/img/screenshot.png" width="400" height="225">
-  <img src="/img/screenshot1.png" width="400" height="225">
-</p>
-<p>
-  <img src="/img/screenshot2.png" width="400" height="225">
-  <img src="/img/screenshot3.png" width="400" height="225">
+<p style="display: flex; justify-content: space-evenly;">
+	<img src="/img/screenshot.png" alt="Rainbow Expansion screenshot" style="max-width: 400px; width: 49%;">
+	<img src="/img/screenshot1.png" alt="Rainbow Expansion screenshot" style="max-width: 400px; width: 49%;">
+	<img src="/img/screenshot2.png" alt="Rainbow Expansion screenshot" style="max-width: 400px; width: 49%;">
+	<img src="/img/screenshot3.png" alt="Rainbow Expansion screenshot" style="max-width: 400px; width: 49%;">
 </p>
 
 ## Map
-<p>
-  <img src="/img/map.png" width="800" height="450">
+
+<p style="display: flex;">
+	<img src="/img/map.png" alt="Rainbow Expansion map" style="max-width: 800px; width: 98%;">
 </p>
 
 ## Rainbow Expansion 1 Features
+
 - 🎧 Cool Custom Music (that loops)
 - 🎨 Custom Ink Colors
 - 😎 2 Custom Boss Fights every release
@@ -50,6 +50,7 @@ Some screenshots from the mod
 *Oh and S1 Maps are in the mod too...*
 
 ## Introducing...
+
 - Custom Weapon Params
 - Custom Ink Colors (now also for the enemies)
 - New Looping Custom Music
@@ -63,6 +64,7 @@ Some screenshots from the mod
 - New Custom Text
 
 ## Installation
+
 - Download the [latest release](https://github.com/SplatGian/Rainbow-Expansion/releases/latest) for your **Splatoon 2 version** (*You can download REGION_nomusic.zip instead of REGION.zip if you don't want to hear the custom music*)
 
 - <details open>
@@ -84,14 +86,15 @@ Some screenshots from the mod
   </details>
 
 ## Contributors
+
 Thanks goes to these wonderful people (in no particular order)!
 
-|   | Name | Discord username | Contributions |
-|:-:|:----:|:----------------:|:-------------:|
-|![SplatGian](https://avatars.githubusercontent.com/u/70701405?s=64)|Gian|Gian#7213|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=SplatGian)|
-|![AntoSkate](https://avatars.githubusercontent.com/u/36473846?s=64)|AntoSkate|AntoSkate#8235|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=AntoSkate)|
-|![BunnyGames98](https://avatars.githubusercontent.com/u/77182138?s=64)|Bunn|Bunn#3641|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=BunnyGames98)|
-|![PastaMarie](https://avatars.githubusercontent.com/u/93050901?s=64)|BepisMarie|Dr Pussycat#4960|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=PastaMarie)|
-|![mr-grizz-ly](https://avatars.githubusercontent.com/u/93011379?s=64)|grizz|grizz#5431|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=mr-grizz-ly)|
-|![TudouHack](https://avatars.githubusercontent.com/u/97150065?s=64)|Haxxie|Haxxie#8888|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=TudouHack)|
-|![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|Crusty Sean ★|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|[Contributions](https://github.com/SplatGian/Rainbow-Expansion/commits?author=CrustySean)|
+|   | Discord |
+|:-:|:-------:|
+|![SplatGian](https://avatars.githubusercontent.com/u/70701405?s=64)|Gian#7213|
+|![AntoSkate](https://avatars.githubusercontent.com/u/36473846?s=64)|AntoSkate#8235|
+|![BunnyGames98](https://avatars.githubusercontent.com/u/77182138?s=64)|Bunn#3641|
+|![PastaMarie](https://avatars.githubusercontent.com/u/93050901?s=64)|Dr Pussycat#4960|
+|![mr-grizz-ly](https://avatars.githubusercontent.com/u/93011379?s=64)|grizz#5431|
+|![TudouHack](https://avatars.githubusercontent.com/u/97150065?s=64)|Haxxie#8888|
+|![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|
