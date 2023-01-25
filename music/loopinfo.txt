@@ -1,0 +1,50 @@
+								| start   | end
+								| samples | samples
+
+- rainbow expansion 1
+
+1_BaseNoise_Plaza / 1_Plaza00_c_VS				| 1291652 | 7745283
+
+1_STRM_Mission_Boss_Blitz / 1_STRM_Mission_Boss_Blitz_Minigame	| 0275724 | 5178419
+1_STRM_Showdown_Octa						| 1937181 | 5089574
+
+1_STRM_Stage_8ball_Octa						| 0450185 | 3028099
+1_STRM_Stage_Aim_Octa						| 1365734 | 3023920
+1_STRM_Stage_March_Octa						| 0742839 | 3970584
+1_STRM_Stage_Rival_Octa						| 6223204 | 9336485
+1_STRM_Stage_Sennyu_Octa / 1_STRM_Stage_Sennyu_NoVocal_Octa	| 1026060 | 5124717
+1_STRM_Stage_Sphere_Octa					| 1124392 | 4197081
+1_STRM_Stage_StrikeYoke_Octa					| 1979756 | 4307347
+1_STRM_Stage_test01_Octa					| 2049132 | 4099649
+1_STRM_Stage_test02_Octa					| 1346901 | 3476932
+1_STRM_Stage_test03_Octa					| 0808275 | 3571333
+1_STRM_Stage_ThinkMove_Octa					| 1084173 | 4311917
+
+- rainbow expansion 2
+
+2_MissionEnd_Octa						| ------- | -------
+2_STRM_Stage_Start01_Octa					| 0903890 | 2417814
+
+2_STRM_Mission_Boss_Blitz / 2_STRM_Mission_Boss_Blitz_Minigame	| 0860720 | 2839021
+2_STRM_Showdown_Octa						| 1899584 | 4234805
+
+2_STRM_Stage_Aim_Octa						| 1128359 | 4942642
+2_STRM_Stage_March_Octa						| 0182617 | 4506505
+2_STRM_Stage_Rival_Octa						| 1620751 | 4792922
+2_STRM_Stage_Sphere_Octa					| 2095228 | 4545209
+2_STRM_Stage_test01_Octa					| 0159435 | 4281771
+2_STRM_Stage_test03_Octa					| 0004424 | 4776862
+2_STRM_Stage_ThinkMove_Octa					| 0012326 | 5890062
+
+- rainbow expansion 3
+
+3_STRM_BootScene						| 0250097 | 0736887
+3_BaseNoise_Plaza / 3_Plaza00_c_VS				| 0225648 | 0890928
+
+3_STRM_Mission_Boss_Blitz / 3_STRM_Mission_Boss_Blitz_Minigame	| 1789235 | 3240533
+
+3_STRM_Stage_8ball_Octa						| 0447208 | 4985882
+3_STRM_Stage_Aim_Octa						| 1717520 | 3326112
+3_STRM_Stage_March_Octa						| 1001636 | 3804776
+3_STRM_Stage_Sphere_Octa					| 1001636 | 3804776
+3_STRM_Stage_StrikeYoke_Octa					| 0447208 | 4985882
