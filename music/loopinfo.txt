@@ -21,18 +21,18 @@
 
 - rainbow expansion 2
 
-boss0 / bossminigame0	| 0860720 | 2839021
+2_STRM_Mission_Boss_Blitz / 2_STRM_Mission_Boss_Blitz_Minigame	| 0860720 | 2839021
 
-agent30			| 1899584 | 4234805
-missionend		| ------- | -------
-missionstart		| 0903890 | 2417814
-octoling0		| 1620751 | 4792922
-level00			| 1128359 | 4942642
-level01			| 0182617 | 4506505
-level02			| 2095228 | 4545209
-level03			| 0159435 | 4281771
-level04			| 0004424 | 4776862
-level05			| 0012326 | 5890062
+2_STRM_Showdown_Octa						| 1899584 | 4234805
+2_MissionEnd_Octa						| ------- | -------
+2_STRM_Stage_Start01_Octa					| 0903890 | 2417814
+2_STRM_Stage_Rival_Octa						| 1620751 | 4792922
+2_STRM_Stage_Aim_Octa						| 1128359 | 4942642
+2_STRM_Stage_March_Octa						| 0182617 | 4506505
+2_STRM_Stage_Sphere_Octa					| 2095228 | 4545209
+2_STRM_Stage_test01_Octa					| 0159435 | 4281771
+2_STRM_Stage_test03_Octa					| 0004424 | 4776862
+2_STRM_Stage_ThinkMove_Octa					| 0012326 | 5890062
 
 - rainbow expansion 3
 
