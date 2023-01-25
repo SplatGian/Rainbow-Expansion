@@ -36,6 +36,7 @@ level05			| 0012326 | 5890062
 
 - rainbow expansion 3
 
+plaza1			| 0225648 | 0890928
 boss1 / bossminigame1	| 1789235 | 3240533
 
 8ball1			| 0447208 | 4985882
