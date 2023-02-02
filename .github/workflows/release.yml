@@ -13,8 +13,8 @@ on:
         type: choice
         description: This is a pre-release
         options:
-        - true
-        - false
+          - true
+          - false
 
 jobs:
   release-mod:
@@ -25,30 +25,32 @@ jobs:
 
       - name: Package EU mod files
         run: |
-          Copy-Item -Path romfs-vanilla/ -Destination 0100F8F0000A2000/romfs -Recurse
-          Copy-Item -Path romfs-octo/ -Destination 0100F8F0000A3065/romfs -Recurse
-          7z a -tzip EU 0100F8F0000A2000 0100F8F0000A3065
-          Remove-Item -Path 0100F8F0000A2000/romfs/Sound -Recurse
-          Remove-Item -Path 0100F8F0000A3065/romfs/Sound -Recurse
-          7z a -tzip EU_nomusic 0100F8F0000A2000 0100F8F0000A3065
+          Copy-Item -Path romfs-vanilla/ -Destination atmosphere/contents/0100F8F0000A2000/romfs -Recurse
+          Copy-Item -Path romfs-octo/ -Destination atmosphere/contents/0100F8F0000A3065/romfs -Recurse
+          7z a -tzip EU atmosphere
+
+          Copy-Item -Path EU.zip -Destination EU_nomusic.zip
+          7z d -tzip EU_nomusic atmosphere/contents/0100F8F0000A2000/romfs/Sound atmosphere/contents/0100F8F0000A3065/romfs/Sound
 
       - name: Package JP mod files
         run: |
           Copy-Item -Path EU.zip -Destination JP.zip
+          7z rn -tzip JP atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003C700009C000
+          7z rn -tzip JP atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003C700009D065
+
           Copy-Item -Path EU_nomusic.zip -Destination JP_nomusic.zip
-          7z rn -tzip JP 0100F8F0000A2000 01003C700009C000
-          7z rn -tzip JP 0100F8F0000A3065 01003C700009D065
-          7z rn -tzip JP_nomusic 0100F8F0000A2000 01003C700009C000
-          7z rn -tzip JP_nomusic 0100F8F0000A3065 01003C700009D065
+          7z rn -tzip JP_nomusic atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003C700009C000
+          7z rn -tzip JP_nomusic atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003C700009D065
 
       - name: Package US mod files
         run: |
           Copy-Item -Path EU.zip -Destination US.zip
+          7z rn -tzip US atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003BC0000A0000
+          7z rn -tzip US atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003BC0000A1065
+
           Copy-Item -Path EU_nomusic.zip -Destination US_nomusic.zip
-          7z rn -tzip US 0100F8F0000A2000 01003BC0000A0000
-          7z rn -tzip US 0100F8F0000A3065 01003BC0000A1065
-          7z rn -tzip US_nomusic 0100F8F0000A2000 01003BC0000A0000
-          7z rn -tzip US_nomusic 0100F8F0000A3065 01003BC0000A1065
+          7z rn -tzip US_nomusic atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003BC0000A0000
+          7z rn -tzip US_nomusic atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003BC0000A1065
 
       - name: GitHub release
         uses: softprops/action-gh-release@v1

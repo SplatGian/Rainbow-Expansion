@@ -18,21 +18,21 @@ jobs:
 
       - name: Package EU mod files
         run: |
-          Copy-Item -Path romfs-vanilla/ -Destination 0100F8F0000A2000/romfs -Recurse
-          Copy-Item -Path romfs-octo/ -Destination 0100F8F0000A3065/romfs -Recurse
-          7z a -tzip EU 0100F8F0000A2000 0100F8F0000A3065
+          Copy-Item -Path romfs-vanilla/ -Destination atmosphere/contents/0100F8F0000A2000/romfs -Recurse
+          Copy-Item -Path romfs-octo/ -Destination atmosphere/contents/0100F8F0000A3065/romfs -Recurse
+          7z a -tzip EU atmosphere
 
       - name: Package JP mod files
         run: |
           Copy-Item -Path EU.zip -Destination JP.zip
-          7z rn -tzip JP 0100F8F0000A2000 01003C700009C000
-          7z rn -tzip JP 0100F8F0000A3065 01003C700009D065
+          7z rn -tzip JP atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003C700009C000
+          7z rn -tzip JP atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003C700009D065
 
       - name: Package US mod files
         run: |
           Copy-Item -Path EU.zip -Destination US.zip
-          7z rn -tzip US 0100F8F0000A2000 01003BC0000A0000
-          7z rn -tzip US 0100F8F0000A3065 01003BC0000A1065
+          7z rn -tzip US atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003BC0000A0000
+          7z rn -tzip US atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003BC0000A1065
 
       - name: GitHub release
         uses: ncfavier/action-gh-release@delete-existing
