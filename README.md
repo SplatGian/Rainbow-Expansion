@@ -70,7 +70,7 @@ Some screenshots from the mod
 - <details open>
   <summary>Nintendo Switch</summary>
 
-  - Copy the file you downloaded in **atmosphere/contents** on your Switch's sd card (you can also use [ftpd](https://github.com/mtheall/ftpd) to access its files) and unzip it
+  - Copy the file you downloaded in the root directory of your Switch sd card and unzip it
 
   </details>
 
@@ -78,10 +78,10 @@ Some screenshots from the mod
   <summary>Emulators</summary>
 
   - Ryujinx
-    - Copy the file you downloaded in **mods/contents** in the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
+    - Copy the file you downloaded in the **sdcard** directory in the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
 
   - yuzu
-    - Copy the file you downloaded in **sdmc/atmosphere/contents** in the yuzu folder (***File -> Open yuzu Folder***) and unzip it
+    - Copy the file you downloaded in the **sdmc** directory in the yuzu folder (***File -> Open yuzu Folder***) and unzip it
 
   </details>
 
@@ -93,8 +93,10 @@ Thanks goes to these wonderful people (in no particular order)!
 |:-:|:-------:|
 |![SplatGian](https://avatars.githubusercontent.com/u/70701405?s=64)|Gian#7213|
 |![AntoSkate](https://avatars.githubusercontent.com/u/36473846?s=64)|AntoSkate#8235|
+|![Arrna](https://avatars.githubusercontent.com/u/92673710?s=64)|Arrna#0541|
 |![BunnyGames98](https://avatars.githubusercontent.com/u/77182138?s=64)|Bunn#3641|
 |![PastaMarie](https://avatars.githubusercontent.com/u/93050901?s=64)|Dr Pussycat#4960|
 |![mr-grizz-ly](https://avatars.githubusercontent.com/u/93011379?s=64)|grizz#5431|
 |![TudouHack](https://avatars.githubusercontent.com/u/97150065?s=64)|Haxxie#8888|
+|![POGnator](https://cdn.discordapp.com/avatars/671419359058722826/85b323b25973afc8bf20d6b79fcb4981.webp?size=64)|POGnator#6941|
 |![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|
