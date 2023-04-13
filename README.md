@@ -70,12 +70,14 @@ Some screenshots from the mod
 - <details open>
   <summary>Nintendo Switch</summary>
 
-  - Copy the file you downloaded in the root directory of your Switch sd card and unzip it
+  - Copy the file you downloaded in the root directory of your modded Switch[^1] sd card and unzip it
 
   </details>
 
 - <details>
   <summary>Emulators</summary>
+  
+*If you want to legally play Splatoon 2 on your emulator you need to [dump the game first](https://suchmememanyskill.github.io/guides/switchdumpguide/). Dump the base game, all Updates and the DLC.*
 
   - Ryujinx
     - Copy the file you downloaded in the **sdcard** directory in the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
@@ -100,3 +102,5 @@ Thanks goes to these wonderful people (in no particular order)!
 |![TudouHack](https://avatars.githubusercontent.com/u/97150065?s=64)|Haxxie#8888|
 |![POGnator](https://cdn.discordapp.com/avatars/671419359058722826/85b323b25973afc8bf20d6b79fcb4981.webp?size=64)|POGnator#6941|
 |![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|
+
+[^1]: To play Rainbow Expansion on your Nintendo Switch you first have to mod and run custom firmware (CFW) on it. This is completely legal. A guide on modding can be found [here](https://rentry.org/SwitchHackingIsEasy). 
