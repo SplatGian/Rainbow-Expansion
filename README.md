@@ -42,6 +42,7 @@ Some screenshots from the mod
 - ✨ Cool Models and Textures
 - 👕 Cool Clothes, Hair and Octopus textures
 - 📄 Custom Text for Levels and more elements in the Rainbow Expansion
+- ✍️ Now Custom (English) Text will work on ANY language ur switch is set to regardless of which one, isn't that cool?
 - ⏳ New Custom Loading Animations
 - 👀 Custom Eyes
 - 🔫 All-New Weapon textures
