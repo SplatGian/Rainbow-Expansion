@@ -37,6 +37,7 @@ Some screenshots from the mod
 - 🎧 Cool Custom Music that also loops, some is also returning from past releases
 - 🎨 All-new Custom Ink Colors
 - 😎 2 Custom Boss Fights every release for a total of 4 right now
+- 🖌️ Rainbow Retextures for Octoshower Boss
 - 🗿 50+ Custom Levels
 - 🧿 50+ Custom Mem Cakes, with their own Custom Layout and Name
 - ✨ Cool Models and Textures
