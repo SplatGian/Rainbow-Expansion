@@ -48,7 +48,7 @@ Some screenshots from the mod
 - 🧑‍💻 Custom NPCs in the Plaza with the Mod Contributors' names
 - 🔠 All-New Custom Fonts
 - 💈 New Custom Hairstyles
-- 🪲 No bugs, No crashes, this means everything is Perfect
+- 🪲 No bugs, No crashes, everything has been carefully tested and this means that Rainbow Expansion is absolutely Perfect
 - 💎 All-New revamped UI
 - 🚀 Custom Booting Screen
 - 💬 Introducing hilarious Custom Dialogues
