@@ -32,36 +32,30 @@ Some screenshots from the mod
 	<img src="/img/map.png" alt="Rainbow Expansion map" style="max-width: 800px; width: 98%;">
 </p>
 
-## Rainbow Expansion 1 Features
+## Rainbow Expansion Features
 
-- 🎧 Cool Custom Music (that loops)
-- 🎨 Custom Ink Colors
-- 😎 2 Custom Boss Fights every release
-- 🗿 19 Levels
+- 🎧 Cool Custom Music that also loops, some is also returning from past releases
+- 🎨 All-new Custom Ink Colors
+- 😎 2 Custom Boss Fights every release for a total of 4 right now
+- 🗿 50+ Custom Levels
+- 🧿 50+ Custom Mem Cakes, with their own Custom Layout and Name
 - ✨ Cool Models and Textures
 - 👕 Cool Clothes, Hair and Octopus textures
-- 📄 Custom Texts
-- ⏳ Custom Loading Animations
-- 👀 Custom Eyes and Weapon textures
+- 📄 Custom Text for Levels and more elements in the Rainbow Expansion
+- ⏳ New Custom Loading Animations
+- 👀 Custom Eyes
+- 🔫 All-New Weapon textures
 - 🧑‍💻 Custom NPCs in the Plaza with the Mod Contributors' names
-- 🔠 Custom Fonts
-- 💈 Custom Hairstyles
+- 🔠 All-New Custom Fonts
+- 💈 New Custom Hairstyles
+- 🪲 No bugs, No crashes, everything has been carefully tested and this means that Rainbow Expansion is absolutely Perfect
+- 💎 All-New revamped UI
+- 🚀 Custom Booting Screen
+- 💬 Introducing hilarious Custom Dialogues
+- 📱 Introducing iPhone 69 Pro Max
+- 😱 and a new Secret Level
 
-*Oh and S1 Maps are in the mod too...*
-
-## Introducing...
-
-- Custom Weapon Params
-- Custom Ink Colors (now also for the enemies)
-- New Looping Custom Music
-- 16 New Levels and 2 New Custom Bosses
-- Starting and Ending Levels Music
-- New Fonts (8-bit styled)
-- New Hair
-- New Textures
-- Custom Mem Cakes
-- A new Look to Rainbow Expansion's Layout/Animations/Loading Screens/...
-- New Custom Text
+*Oh and a lot of S1 Maps are in the mod too...*
 
 ## Installation
 
