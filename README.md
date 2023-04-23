@@ -73,7 +73,7 @@ Some screenshots from the mod
 - <details>
   <summary>Emulators</summary>
   
-*If you want to legally play Splatoon 2 on your emulator you need to [dump the game first](https://suchmememanyskill.github.io/guides/switchdumpguide/). Dump the base game, all Updates and the DLC.*
+	*If you want to legally play Splatoon 2 on your emulator you need to [dump the game first](https://suchmememanyskill.github.io/guides/switchdumpguide/). Dump the base game, all Updates and the DLC.*
 
   - Ryujinx
     - Copy the file you downloaded in the **sdcard** directory in the Ryujinx folder (***File -> Open Ryujinx Folder***) and unzip it
