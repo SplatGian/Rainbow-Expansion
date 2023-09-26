@@ -16,47 +16,42 @@ on:
           - true
           - false
 
+permissions: write-all
+
 jobs:
   release-mod:
     if: github.repository == '${{ github.repository_owner }}/Rainbow-Expansion'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Install 7zip 22.01
-        run: |
-          curl https://www.7-zip.org/a/7z2201-linux-x64.tar.xz -o 7z.tar.xz
-          sudo tar -xf 7z.tar.xz -C /usr/local/bin/ --overwrite
+      - uses: actions/checkout@v4
 
       - name: Package EU mod files
         run: |
           mkdir -p atmosphere/contents/0100F8F0000A2000 atmosphere/contents/0100F8F0000A3065
           mv romfs-vanilla atmosphere/contents/0100F8F0000A2000/romfs
           mv romfs-octo atmosphere/contents/0100F8F0000A3065/romfs
-          7zz a -tzip EU atmosphere
+          zip -r0 EU atmosphere
 
           cp EU.zip EU_nomusic.zip
-          7zz d -tzip EU_nomusic atmosphere/contents/0100F8F0000A2000/romfs/Sound atmosphere/contents/0100F8F0000A3065/romfs/Sound
+          zip -d EU_nomusic atmosphere/contents/0100F8F0000A2000/romfs/Sound/* atmosphere/contents/0100F8F0000A3065/romfs/Sound/*
 
       - name: Package JP mod files
         run: |
-          cp EU.zip JP.zip
-          7zz rn -tzip JP atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003C700009C000
-          7zz rn -tzip JP atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003C700009D065
+          mv atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003C700009C000
+          mv atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003C700009D065
+          zip -r0 JP atmosphere
 
-          cp EU_nomusic.zip JP_nomusic.zip
-          7zz rn -tzip JP_nomusic atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003C700009C000
-          7zz rn -tzip JP_nomusic atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003C700009D065
+          cp JP.zip JP_nomusic.zip
+          zip -d JP_nomusic atmosphere/contents/01003C700009C000/romfs/Sound/* atmosphere/contents/01003C700009D065/romfs/Sound/*
 
       - name: Package US mod files
         run: |
-          cp EU.zip US.zip
-          7zz rn -tzip US atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003BC0000A0000
-          7zz rn -tzip US atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003BC0000A1065
+          mv atmosphere/contents/01003C700009C000 atmosphere/contents/01003BC0000A0000
+          mv atmosphere/contents/01003C700009D065 atmosphere/contents/01003BC0000A1065
+          zip -r0 US atmosphere
 
-          cp EU_nomusic.zip US_nomusic.zip
-          7zz rn -tzip US_nomusic atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003BC0000A0000
-          7zz rn -tzip US_nomusic atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003BC0000A1065
+          cp US.zip US_nomusic.zip
+          zip -d US_nomusic atmosphere/contents/01003BC0000A0000/romfs/Sound/* atmosphere/contents/01003BC0000A1065/romfs/Sound/*
 
       - name: GitHub release
         uses: softprops/action-gh-release@v1
