@@ -38,6 +38,7 @@
 
 - rainbow expansion 3
 
+3_STRM_PlayerMake						| 0680449 | 2140311
 3_STRM_Tutorial							| 2815102 | 4537395
 
 3_STRM_BootScene						| 0250097 | 0736887
