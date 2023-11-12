@@ -9,8 +9,6 @@ on:
 
   workflow_dispatch:
 
-permissions: write-all
-
 jobs:
   release-mod:
     if: github.repository == '${{ github.repository_owner }}/Rainbow-Expansion-Private'
@@ -18,24 +16,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install 7zip 22.01
+        run: |
+          curl https://www.7-zip.org/a/7z2201-linux-x64.tar.xz -o 7z.tar.xz
+          sudo tar -xf 7z.tar.xz -C /usr/local/bin/ --overwrite
+
       - name: Package EU mod files
         run: |
-          mkdir -p atmosphere/contents/0100F8F0000A2000 atmosphere/contents/0100F8F0000A3065
+          mkdir -p atmosphere/contents/0100F8F0000A2000 atmosphere/contents/0100F8F0000A3065 
           mv romfs-vanilla atmosphere/contents/0100F8F0000A2000/romfs
           mv romfs-octo atmosphere/contents/0100F8F0000A3065/romfs
-          zip -r0 EU atmosphere
- 
+          7zz a -tzip EU atmosphere
+
       - name: Package JP mod files
         run: |
-          mv atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003C700009C000
-          mv atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003C700009D065
-          zip -r0 JP atmosphere
+          cp EU.zip JP.zip
+          7zz rn -tzip JP atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003C700009C000
+          7zz rn -tzip JP atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003C700009D065
 
       - name: Package US mod files
         run: |
-          mv atmosphere/contents/01003C700009C000 atmosphere/contents/01003BC0000A0000
-          mv atmosphere/contents/01003C700009D065 atmosphere/contents/01003BC0000A1065
-          zip -r0 US atmosphere
+          cp EU.zip US.zip
+          7zz rn -tzip US atmosphere/contents/0100F8F0000A2000 atmosphere/contents/01003BC0000A0000
+          7zz rn -tzip US atmosphere/contents/0100F8F0000A3065 atmosphere/contents/01003BC0000A1065
 
       - name: GitHub release
         uses: ncfavier/action-gh-release@delete-existing
