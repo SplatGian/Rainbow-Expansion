@@ -68,7 +68,7 @@ All changes to the mod will be documented in this file.
 - Added a New Look to the Rainbow Expansion's Layout/Loading Screens/Animations/...
 - Minor Improvements
 
-|Rainbow Expansion 2 is Finally Here! Get ready for a new Wild Adventure...|
+|Rainbow Expansion 2 is Finally Here! Get ready for a Wild new Adventure...|
 
 ## Rainbow Expansion!
 - The first Public version of Rainbow Expansion!
