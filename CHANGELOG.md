@@ -21,6 +21,8 @@ All changes to the mod will be documented in this file.
 - Added ActionGuide text
 - Added Custom Music for Rainbow Expansion 3's poem part
 
+|The Final Update to Rainbow Expansion. It Fixes everything to make the Experience Perfect!|
+
 ## Rainbow Expansion 3 v.3.0.0!
 - Updated ALL the music and made it loop (some music is coming back from past releases)
 - Added All-New Custom Ink Colors
