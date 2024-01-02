@@ -6,8 +6,70 @@ All changes to the mod will be documented in this file.
 
 ![projects](https://user-images.githubusercontent.com/36473846/141029682-7c01e5ca-ef60-44c4-a8fa-dc7fe8ccb741.png)
 
-## Rainbow Expansion 2 Private!
-- Added sex
+## Rainbow Expansion 3 v.3.1.0!
+- Added all-new dialogues, so make sure to start your Rainbow Expansion Experience with a fresh new save
+- Fixed a bug where u could get the key in the Special Level, die, still have the key and skip a part of the level
+- Added new weapons to Octarians Basement Station Remastered (Blaster and Dapple Dualies)
+- Fixed all the bugs in Rainbow Expansion
+- Added new dialogue for annoying sea cucumber to be in line with Rainbow Expansion's lore
+- Fixed ALL the typos in the mod
+- Removed old Rainbow Canyon hair previously used in RE1 and RE2 for IA3's hair but now useless
+- Added Custom Music to the player customization screen and made it loop
+- Added Custom Ink colors that fit Rainbow Expansion 3's style/color palette for the base game tutorial and OE's tutorial
+- Added Custom Images and text to the tutorial intro
+- Fixed the Plaza Intro music getting in conflict with the Rainbow Expansion's plaza music and muted it
+- Added ActionGuide text
+- Added Custom Music for Rainbow Expansion 3's poem part
+
+## Rainbow Expansion 3 v.3.0.0!
+- Updated ALL the music and made it loop (some music is coming back from past releases)
+- Added All-New Custom Ink Colors
+- Made retextures for Octoshower Boss
+- Added 20 all-new Levels with an improved level design!
+- Added 20 New Mem Cakes with their own Custom Name and Layout
+- Added New Custom Models
+- Updated ALL the weapon textures
+- Improved textures for Train, Clothes, Hair, Eyes, Octolings, and more...
+- Added Custom Text for the new Levels and more elements in Rainbow Expansion
+- Made it so that the Custom (English) Text will work on ANY language ur switch is set to regardless of which one
+- Added All-New Custom Loading Animations
+- Added All-New Custom Fonts that fit better with the Rainbow Expansion Style
+- Added All-New Custom Hairstyles
+- Updated Plaza Music
+- Made an all-new revamped UI
+- Added a really cool Custom Booting Screen
+- Added hilarious Custom Dialogues for Rainbow Expansion
+- Added iPhone 69 Pro Max over CQ-80 Device
+- Added 8-Ball Rainbow Retexture
+- Added a Special Level
+- Added Custom Names for ALL the Rainbow Expansion NPCs
+- Added Custom Icons for ALL the Rainbow Expansion NPCs
+- Added New Custom Music for the Tutorial and the Booting Screen
+- Added Rainbow Expansion Intro to Splatoon 2's Plaza TV (there's a 70% chance it appears after you boot ur game)
+- Added more Splatoon 1 Maps to the Mod
+- Made it so IA3 uses Inklings' Hair while Inklings use Custom Models to make ia3's hair invisible
+
+|The biggest Rainbow Expansion update since Rainbow Expansion 1!|
+
+## Rainbow Expansion 2!
+- Added Custom Weapon Params
+- Made it so every Custom Map, Music, Color, Param will ONLY work in Rainbow Expansion and not online
+- Updated ALL the Custom Music and made it Loop (thx AntoSkate for the Help)
+- Added NEW Custom Ink Colors (now also for the enemies)
+- Added 16 New Levels and 2 New Custom Bosses (look at the Map Image for more info)
+- Added Starting and Ending Music for the Levels
+- Added New Fonts
+- Added 3 New Hairstyles
+- New Textures got added and some got improved
+- Added Custom Mem Cakes with their own custom name
+- Added New Custom Text for the mod
+- Added a New Look to the Rainbow Expansion's Layout/Loading Screens/Animations/...
+- Minor Improvements
+
+|Rainbow Expansion 2 is Finally Here! Get ready for a new Wild Adventure...|
+
+## Rainbow Expansion!
+- The first Public version of Rainbow Expansion!
 
 ## V0.14.6: Boss Update!
 - Added Custom Text for US S2 (doesn't work on ver3.1, maybe cuz it's really old ?)
