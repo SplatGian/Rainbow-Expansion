@@ -13,6 +13,7 @@
 	<a href="#map">Map</a> |
 	<a href="#installation">Installation</a> |
 	<a href="#contributors">Contributors</a>
+	<a href="#gamebanana page">Gamenanana Page</a>
 </p>
 
 ## Gallery
@@ -100,3 +101,7 @@ Thanks goes to these wonderful people (in no particular order)!
 |![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|
 
 [^1]: To play Rainbow Expansion on your Nintendo Switch you first have to mod and run custom firmware (CFW) on it. This is completely legal. A guide on modding can be found [here](https://rentry.org/SwitchHackingIsEasy). 
+
+## Gamebanana Page
+
+<a href="https://gamebanana.com/mods/346493">Click Here to get to the Gamebanana page of the Mod!</a>.</h4>
