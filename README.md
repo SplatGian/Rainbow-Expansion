@@ -104,4 +104,4 @@ Thanks goes to these wonderful people (in no particular order)!
 
 ## Gamebanana Page
 
-<a href="https://gamebanana.com/mods/346493">Click Here to get to the Gamebanana page of the Mod!</a>.</h4>
+<a href="https://gamebanana.com/mods/346493">Click Here to get to the Gamebanana page of the Mod!</a></h4>
