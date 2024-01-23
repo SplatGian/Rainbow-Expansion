@@ -12,7 +12,7 @@
 	<a href="#gallery">Gallery</a> |
 	<a href="#map">Map</a> |
 	<a href="#installation">Installation</a> |
-	<a href="#contributors">Contributors</a>
+	<a href="#contributors">Contributors</a> |
 	<a href="#gamebanana page">Gamebanana Page</a>
 </p>
 
