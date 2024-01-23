@@ -97,7 +97,7 @@ Thanks goes to these wonderful people (in no particular order)!
 |![PastaMarie](https://avatars.githubusercontent.com/u/93050901?s=64)|Dr Pussycat#4960|
 |![mr-grizz-ly](https://avatars.githubusercontent.com/u/93011379?s=64)|grizz#5431|
 |![TudouHack](https://avatars.githubusercontent.com/u/97150065?s=64)|Haxxie#8888|
-|![POGnator](https://cdn.discordapp.com/avatars/671419359058722826/85b323b25973afc8bf20d6b79fcb4981.webp?size=64)|POGnator#6941|
+|![POGnator](https://cdn.discordapp.com/avatars/671419359058722826/d6dc844ffee76f5b7ce82ec416c41516?size=64)|POGnator#6941|
 |![CrustySean](https://avatars.githubusercontent.com/u/59363047?s=64)|イーリア 🄿🅁🄾 (Crusty Sean ★)#7214|
 
 [^1]: To play Rainbow Expansion on your Nintendo Switch you first have to mod and run custom firmware (CFW) on it. This is completely legal. A guide on modding can be found [here](https://rentry.org/SwitchHackingIsEasy). 
